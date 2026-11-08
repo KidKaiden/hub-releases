@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.1",
-    "notes":  "Updates now also come from the public release site, so devices can update while the PC is off. Everything from 0.9.0: sign-in and owner console, Notes, World Link, assistant inbox, outside link, phone notifications on iPhone, bigger text and every colour adjustable",
-    "pub_date":  "2026-11-08T15:21:33Z",
+    "version":  "0.9.2",
+    "notes":  "New: Check for updates now installs the update in one go. On Android 12 and later there is no screen to tap; This note: a short list of what changed after each update. Close it with X, or turn it off in Updates. Improved: Updates are manual by default: nothing downloads until you press Check for updates. Automatic is an option; After a phone update, a notification says Hub is updated; tap it to open the new version",
+    "pub_date":  "2026-11-08T15:54:31Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkZZV3ZqejRCVUw4ZVN4OStaSTllY1h2Wnh6bldzVFVrdGlVeGZiSFRIazYvSW04dzhTaUNmbHR5VU4wZW8zcjhRT2NTNjN1NEtrMkRuVkErODdheXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTUxMzg4CWZpbGU6SHViXzAuOS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMQozMlRIUWVxc2R1SW1ZWW9ZYmdGYkEzTDkvNloweXBaK2RQN3ZiU0VMOTRydy81cVVQdlpRWVNkbXZjZXdNc1lxeGtVZGhIV3RMTjJneSt2Ny9vSG1CQT09Cg==",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.9.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4Wkh6WTJybHp3Slc5N25zZm5QQWk1NEpnZDR4ektZZ1BRM3c5UWVtUWM5TGNpWG9EbU1mOVBFWXRwSjZQTkFrNTRTelMxaXBzU1VTVjZhVlFGdm5MekFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTUzMzY5CWZpbGU6SHViXzAuOS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMgovd2l3MnVDK2k1clB4MGlXeEVNREhBSjhjNHZTVUhnWUQ3dytrQ05xY3NnN0d2cGlRZ3AyU3BaWWRiK3dDRHAwamsxNVNxQ3E1eGFoeFdYZjFqUnNCZz09Cg==",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.9.2_x64-setup.exe"
                                          }
                   }
 }
