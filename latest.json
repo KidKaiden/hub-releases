@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.2",
-    "notes":  "New: Check for updates now installs the update in one go. On Android 12 and later there is no screen to tap; This note: a short list of what changed after each update. Close it with X, or turn it off in Updates. Improved: Updates are manual by default: nothing downloads until you press Check for updates. Automatic is an option; After a phone update, a notification says Hub is updated; tap it to open the new version",
-    "pub_date":  "2026-11-08T15:54:31Z",
+    "version":  "0.9.3",
+    "notes":  "Fixed: PC updates could try to install into an old folder Windows still remembered (ALL APPS). They now always replace the copy you are running",
+    "pub_date":  "2026-11-08T15:57:58Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4Wkh6WTJybHp3Slc5N25zZm5QQWk1NEpnZDR4ektZZ1BRM3c5UWVtUWM5TGNpWG9EbU1mOVBFWXRwSjZQTkFrNTRTelMxaXBzU1VTVjZhVlFGdm5MekFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTUzMzY5CWZpbGU6SHViXzAuOS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMgovd2l3MnVDK2k1clB4MGlXeEVNREhBSjhjNHZTVUhnWUQ3dytrQ05xY3NnN0d2cGlRZ3AyU3BaWWRiK3dDRHAwamsxNVNxQ3E1eGFoeFdYZjFqUnNCZz09Cg==",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.9.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkRZN2ErU3ZiMndMMFZOTVYwZEttTGZqSGxleG1WcFFYeTNyM0xjRXAxVDVEZm4vekNQbTZLYnUyQzdzdnpOWEFrUXR0UGt5MzBXMDhwdG9kSTBERXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTUzNTczCWZpbGU6SHViXzAuOS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMwpSbzJuWk1pVXVud2lMbTdrNFVVSCtqMTNHSmtKMmRBRm0zUndYeDl5RDY2YjBIYzRGRmpFcnVIMEVzS2ZFSVNuUEl3SWw0aXhBM0xpZ0NHRElXVGxEZz09Cg==",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.9.3_x64-setup.exe"
                                          }
                   }
 }

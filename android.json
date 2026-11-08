@@ -1,6 +1,6 @@
 {
-    "version":  "0.9.2",
-    "notes":  "New: Check for updates now installs the update in one go. On Android 12 and later there is no screen to tap; This note: a short list of what changed after each update. Close it with X, or turn it off in Updates. Improved: Updates are manual by default: nothing downloads until you press Check for updates. Automatic is an option; After a phone update, a notification says Hub is updated; tap it to open the new version",
-    "pub_date":  "2026-11-08T15:54:31Z",
-    "url":  "files/Hub-0.9.2.apk"
+    "version":  "0.9.3",
+    "notes":  "Fixed: PC updates could try to install into an old folder Windows still remembered (ALL APPS). They now always replace the copy you are running",
+    "pub_date":  "2026-11-08T15:57:58Z",
+    "url":  "files/Hub-0.9.3.apk"
 }
