@@ -1,0 +1,5 @@
+{
+ "version": "0.9.1",
+ "built": "2026-11-08T15:23:09.649Z",
+ "notes": "Updates now also come from the public release site, so devices can update while the PC is off. Everything from 0.9.0: sign-in and owner console, Notes, World Link, assistant inbox, outside link, phone notifications on iPhone, bigger text and every colour adjustable"
+}

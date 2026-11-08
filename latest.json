@@ -1,0 +1,11 @@
+{
+    "version":  "0.9.1",
+    "notes":  "Updates now also come from the public release site, so devices can update while the PC is off. Everything from 0.9.0: sign-in and owner console, Notes, World Link, assistant inbox, outside link, phone notifications on iPhone, bigger text and every colour adjustable",
+    "pub_date":  "2026-11-08T15:21:33Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkZZV3ZqejRCVUw4ZVN4OStaSTllY1h2Wnh6bldzVFVrdGlVeGZiSFRIazYvSW04dzhTaUNmbHR5VU4wZW8zcjhRT2NTNjN1NEtrMkRuVkErODdheXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTUxMzg4CWZpbGU6SHViXzAuOS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMQozMlRIUWVxc2R1SW1ZWW9ZYmdGYkEzTDkvNloweXBaK2RQN3ZiU0VMOTRydy81cVVQdlpRWVNkbXZjZXdNc1lxeGtVZGhIV3RMTjJneSt2Ny9vSG1CQT09Cg==",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.9.1_x64-setup.exe"
+                                         }
+                  }
+}
