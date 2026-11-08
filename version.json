@@ -1,5 +1,5 @@
 {
- "version": "0.9.4",
- "built": "2026-11-08T17:08:24.933Z",
- "notes": "New: Admin > Accounts: links to send for iPhone and Android, always there, with Copy, Email (with the steps) and a QR code; iPhone: through the outside link, Hub opens with your last saved copy while the PC is off, and catches up when it's back. Improved: Passwords need 6 or more characters, at home and through the outside link; iPhone: the sign-in page says to add Hub to the Home Screen first, and text boxes no longer zoom the page in. Fixed: On narrow phones the sync status pushed the page title out, and Admin's tabs ran into each other; Copy buttons did nothing when Hub was opened at the home address"
+ "version": "0.9.5",
+ "built": "2026-11-08T19:45:59.770Z",
+ "notes": "Improved: Sign-in and first-run steps slide from one to the next, and the card's height eases instead of jumping; Apps open out of the tile you tap, and Hub settles back into place when you close one; Menus grow from their button and fade away; the highlight in the side and bottom bars slides to where you tap; Changing the theme or light mode fades the whole screen across, and boxes that open in place grow smoothly; Notes and messages glide into their new places instead of jumping"
 }

@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.4",
-    "notes":  "New: Admin \u003e Accounts: links to send for iPhone and Android, always there, with Copy, Email (with the steps) and a QR code; iPhone: through the outside link, Hub opens with your last saved copy while the PC is off, and catches up when it\u0027s back. Improved: Passwords need 6 or more characters, at home and through the outside link; iPhone: the sign-in page says to add Hub to the Home Screen first, and text boxes no longer zoom the page in. Fixed: On narrow phones the sync status pushed the page title out, and Admin\u0027s tabs ran into each other; Copy buttons did nothing when Hub was opened at the home address",
-    "pub_date":  "2026-11-08T17:06:50Z",
+    "version":  "0.9.5",
+    "notes":  "Improved: Sign-in and first-run steps slide from one to the next, and the card\u0027s height eases instead of jumping; Apps open out of the tile you tap, and Hub settles back into place when you close one; Menus grow from their button and fade away; the highlight in the side and bottom bars slides to where you tap; Changing the theme or light mode fades the whole screen across, and boxes that open in place grow smoothly; Notes and messages glide into their new places instead of jumping",
+    "pub_date":  "2026-11-08T19:44:12Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4Wk5vVjFURU5wZnYrY0I3TFMwcGJxbFI5QUtld2pnME1FKzIwaC95VU1TVlZmb1d3VHNsUXdmemtSeld1N3hkL1dGeUNTU0NtSnNsdXg4L1ZNTnMxWGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU3NzAzCWZpbGU6SHViXzAuOS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuNApmTmlIREkzdW9HR29pdkI2YmJjYlA3TGs1QUt2YnFNNk5nYzI5NXgrcFZQU0RoUFVXSUNGVEwzQ2swZXhTL2tTZ0I5RzhuVTZ4MVovTUFjR04yOVFEdz09Cg==",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.9.4_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WklUM0xsSXc2MVBCOTIvVE52ZGRhaE03cnhwY3NqdDl0SlNWNzg1dnQ3ZlJaSG50bXU5Q2pnbElYaUFQcHBiRlFCZHVyV0JyZXAzMDU3M1VOKzA2d3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTY3MTU4CWZpbGU6SHViXzAuOS41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuNQpidHp6aHl3VHViWEZlaTdINW9DS1B6ZnllRFU0WUJvMW11Ukp5alhQVkx3TUxSbFdDZnlVZ2lRTWtYd3h0QU5aVmw3S3h6T0Z3Q0dIdzczQ2dqOWVBUT09Cg==",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.9.5_x64-setup.exe"
                                          }
                   }
 }

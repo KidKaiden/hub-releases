@@ -1,6 +1,6 @@
 {
-    "version":  "0.9.4",
-    "notes":  "New: Admin \u003e Accounts: links to send for iPhone and Android, always there, with Copy, Email (with the steps) and a QR code; iPhone: through the outside link, Hub opens with your last saved copy while the PC is off, and catches up when it\u0027s back. Improved: Passwords need 6 or more characters, at home and through the outside link; iPhone: the sign-in page says to add Hub to the Home Screen first, and text boxes no longer zoom the page in. Fixed: On narrow phones the sync status pushed the page title out, and Admin\u0027s tabs ran into each other; Copy buttons did nothing when Hub was opened at the home address",
-    "pub_date":  "2026-11-08T17:06:50Z",
-    "url":  "files/Hub-0.9.4.apk"
+    "version":  "0.9.5",
+    "notes":  "Improved: Sign-in and first-run steps slide from one to the next, and the card\u0027s height eases instead of jumping; Apps open out of the tile you tap, and Hub settles back into place when you close one; Menus grow from their button and fade away; the highlight in the side and bottom bars slides to where you tap; Changing the theme or light mode fades the whole screen across, and boxes that open in place grow smoothly; Notes and messages glide into their new places instead of jumping",
+    "pub_date":  "2026-11-08T19:44:12Z",
+    "url":  "files/Hub-0.9.5.apk"
 }
