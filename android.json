@@ -1,6 +1,6 @@
 {
-    "version":  "0.9.3",
-    "notes":  "Fixed: PC updates could try to install into an old folder Windows still remembered (ALL APPS). They now always replace the copy you are running",
-    "pub_date":  "2026-11-08T15:57:58Z",
-    "url":  "files/Hub-0.9.3.apk"
+    "version":  "0.9.4",
+    "notes":  "New: Admin \u003e Accounts: links to send for iPhone and Android, always there, with Copy, Email (with the steps) and a QR code; iPhone: through the outside link, Hub opens with your last saved copy while the PC is off, and catches up when it\u0027s back. Improved: Passwords need 6 or more characters, at home and through the outside link; iPhone: the sign-in page says to add Hub to the Home Screen first, and text boxes no longer zoom the page in. Fixed: On narrow phones the sync status pushed the page title out, and Admin\u0027s tabs ran into each other; Copy buttons did nothing when Hub was opened at the home address",
+    "pub_date":  "2026-11-08T17:06:50Z",
+    "url":  "files/Hub-0.9.4.apk"
 }

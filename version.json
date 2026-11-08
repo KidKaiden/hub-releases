@@ -1,5 +1,5 @@
 {
- "version": "0.9.3",
- "built": "2026-11-08T15:59:35.134Z",
- "notes": "Fixed: PC updates could try to install into an old folder Windows still remembered (ALL APPS). They now always replace the copy you are running"
+ "version": "0.9.4",
+ "built": "2026-11-08T17:08:24.933Z",
+ "notes": "New: Admin > Accounts: links to send for iPhone and Android, always there, with Copy, Email (with the steps) and a QR code; iPhone: through the outside link, Hub opens with your last saved copy while the PC is off, and catches up when it's back. Improved: Passwords need 6 or more characters, at home and through the outside link; iPhone: the sign-in page says to add Hub to the Home Screen first, and text boxes no longer zoom the page in. Fixed: On narrow phones the sync status pushed the page title out, and Admin's tabs ran into each other; Copy buttons did nothing when Hub was opened at the home address"
 }
