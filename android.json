@@ -1,6 +1,6 @@
 {
-    "version":  "0.9.5",
-    "notes":  "Improved: Sign-in and first-run steps slide from one to the next, and the card\u0027s height eases instead of jumping; Apps open out of the tile you tap, and Hub settles back into place when you close one; Menus grow from their button and fade away; the highlight in the side and bottom bars slides to where you tap; Changing the theme or light mode fades the whole screen across, and boxes that open in place grow smoothly; Notes and messages glide into their new places instead of jumping",
-    "pub_date":  "2026-11-08T19:44:12Z",
-    "url":  "files/Hub-0.9.5.apk"
+    "version":  "0.9.6",
+    "notes":  "New: Try the demo on the sign-in screen: a look around with sample tasks, notes and money. It\u0027s wiped when you leave, and never touches your account; Finance: categories you can search, add, rename, recolour, hide and delete; part paid bills; spending by category in six kinds of chart; Finance: loans with their interest rate show when they\u0027ll be cleared and what the interest costs; goals work out how much to put in each month; Friends: add each other by username and see a points leaderboard. Only points and levels are shared, never money or notes; Search on phones: a Search button in every header opens it full screen, with recent searches and results grouped by app. Improved: A calmer look: fewer colours, quieter screens, and one clear next step on empty pages. Your accounts start empty; Notes: short automatic titles (marked â€¦) until you type your own, clearer templates, and a quieter toolbar; Dates: type them, or jump to a year in two taps. The calendar keeps the same size every month; Back always works: Escape closes one thing at a time, and the Android Back button closes what\u0027s open before leaving a page. Fixed: Saving notes, backups and lists now works in the PC and Android apps too, and says where the file went; Some labels and calendar days were too faint to read easily in a few themes; A Hub backup file no longer carries the sign-in details of the accounts on that device",
+    "pub_date":  "2026-11-09T01:45:00Z",
+    "url":  "files/Hub-0.9.6.apk"
 }
