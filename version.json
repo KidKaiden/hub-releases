@@ -1,5 +1,5 @@
 {
- "version": "0.10.0",
- "built": "2026-11-10T01:04:46.053Z",
- "notes": "New: Your space: Settings shows how much you keep on the server, what uses the most, and how to get more. When it's full, new things wait safely on your device: nothing is ever deleted; Unlimited space: the owner switches you, or you type the server's unlimited-space password. It also lets you connect your bank; Your own server: a step-by-step guide to running Hub for your own family or group on a PC of yours, with a one-click set-up; Each account remembers its own server, so you can be on two servers and switch between them from your name; For the owner: a new Admin that opens on Home, with a light for each part (green fine, amber worth a look, red needs you) and a short tour you can skip and open again any time; For the owner: Admin > People shows everyone's space, Admin > Banking sets up banking one step at a time, and Admin > Servers lists servers people made with Hub (pause or ban; you never see inside). Improved: Finance shows every page from day one at Â£0.00, with a Start here row and a line in each part saying what fills it in, instead of an empty screen; Connecting a bank explains the three ways to get there: the password, asking the owner, or your own server; A small note at the top when your space is full or your server is paused, with the one thing to do"
+ "version": "0.11.0",
+ "built": "2026-11-12T05:56:32.343Z",
+ "notes": "Hub upgrade: new look and motion, AI chat that can add to Notes, Automations, Toolbox, Trading app (paper first), banking check"
 }
