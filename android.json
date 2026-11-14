@@ -1,6 +1,6 @@
 {
-    "version":  "0.14.0",
-    "notes":  "New: Lock a chat from the chat itself: the lock at the top of each chat. Messages \u003e Settings keeps the default for every chat; Search everything finds settings: type password, theme, notifications or recovery key and go straight there. Improved: Settings is now a few doors, each saying how it stands: You, Look, This device, AI and tools, Admin, Setup guides, Updates and backup. Everything inside is grouped, and every group says what it\u0027s for; One home for each thing: your account, two-step sign-in and devices in You; the look only in Look (apps link there); the server\u0027s update, safety, keys, backups and recovery key all in Admin; Every app\u0027s settings follow the same order: how it works, alerts, privacy, your data, look, help",
-    "pub_date":  "2026-11-14T07:56:17Z",
-    "url":  "files/Hub-0.14.0.apk"
+    "version":  "0.14.1",
+    "notes":  "Improved: Behind the scenes: Admin, Business home and the note editor are built from smaller parts, so a change in one place can\u0027t break another. Nothing looks or works differently",
+    "pub_date":  "2026-11-14T08:41:59Z",
+    "url":  "files/Hub-0.14.1.apk"
 }
