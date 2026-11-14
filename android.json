@@ -1,6 +1,6 @@
 {
-    "version":  "0.12.0",
-    "notes":  "Hub redesign: back arrow and Hub button in every app, smoother page moves, new Emerald and Paper themes, Banking like a bank app, Tracking with friends (feed, kudos, leaderboard, challenges), Business jobs, bookings and calendar, and the Hub extension (no to cookies, one-off identities) with Privacy and Identities",
-    "pub_date":  "2026-11-13T07:29:42Z",
-    "url":  "files/Hub-0.12.0.apk"
+    "version":  "0.13.0",
+    "notes":  "New: Everything is encrypted: your Hub\u0027s data, backups and keys on the PC (the key kept by Windows), and what each phone and PC keeps (the key kept by Windows, the phone\u0027s secure chip, or the browser); A recovery key, the only way back if the PC dies or Windows is reinstalled. Hub asks you to save it once: Hub \u003e Security; Hub \u003e Security: two-step sign-in with a free authenticator app and backup codes, your devices (sign one out, or every other), what happened lately, and what to do if something goes wrong; Secure connections only: phones use your Hub\u0027s https address at home too, and move there by themselves; Update the server from the Hub: Updates \u003e Server on this PC shows what\u0027s new and updates in a few minutes, going back by itself if anything fails; Hub \u003e Setup: every set-up you do yourself, step by step, with why, a button to the right screen, and Check it; Optional app lock: a PIN to open Hub on a device, and the fingerprint on Android (Security \u003e App lock). Improved: Before something important (keys, accounts, a roll back, real money) Hub asks for your password again, once every 10 minutes; Alerts when a new device signs in, when someone tries many wrong passwords, and when a key changes; Devices unused for 90 days sign out by themselves; only the Hub\u0027s own apps can talk to your server",
+    "pub_date":  "2026-11-14T02:10:42Z",
+    "url":  "files/Hub-0.13.0.apk"
 }

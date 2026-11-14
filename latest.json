@@ -1,11 +1,11 @@
 {
-    "version":  "0.12.0",
-    "notes":  "Hub redesign: back arrow and Hub button in every app, smoother page moves, new Emerald and Paper themes, Banking like a bank app, Tracking with friends (feed, kudos, leaderboard, challenges), Business jobs, bookings and calendar, and the Hub extension (no to cookies, one-off identities) with Privacy and Identities",
-    "pub_date":  "2026-11-13T07:29:42Z",
+    "version":  "0.13.0",
+    "notes":  "New: Everything is encrypted: your Hub\u0027s data, backups and keys on the PC (the key kept by Windows), and what each phone and PC keeps (the key kept by Windows, the phone\u0027s secure chip, or the browser); A recovery key, the only way back if the PC dies or Windows is reinstalled. Hub asks you to save it once: Hub \u003e Security; Hub \u003e Security: two-step sign-in with a free authenticator app and backup codes, your devices (sign one out, or every other), what happened lately, and what to do if something goes wrong; Secure connections only: phones use your Hub\u0027s https address at home too, and move there by themselves; Update the server from the Hub: Updates \u003e Server on this PC shows what\u0027s new and updates in a few minutes, going back by itself if anything fails; Hub \u003e Setup: every set-up you do yourself, step by step, with why, a button to the right screen, and Check it; Optional app lock: a PIN to open Hub on a device, and the fingerprint on Android (Security \u003e App lock). Improved: Before something important (keys, accounts, a roll back, real money) Hub asks for your password again, once every 10 minutes; Alerts when a new device signs in, when someone tries many wrong passwords, and when a key changes; Devices unused for 90 days sign out by themselves; only the Hub\u0027s own apps can talk to your server",
+    "pub_date":  "2026-11-14T02:10:42Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkVzOG85dXV3L3hHMTU3c0hIdy9SUnBqMWwwK3I5RlcvYXJYS1pNSytvdm1tMjNlU2dHaEJLSXQvZE9ycGZKeHRaaTNINFU2QW9oZWVnaHJaUFVCRndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTU1MDk2CWZpbGU6SHViXzAuMTIuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMi4wCm5aVjIwbHN6QjN1MGtVNkpyeWk0V2o4TTlkMnVIWnR1bGpHZ01aZ1pHNWJ4TlBtWGxvT3VsV3NLcCtnSlFIUmE3TURiZllVN21TWVI2Z3FobGkyY0RRPT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.12.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4Wk54cnNuOVJnZXBLVEpCVHdjQnhJTW4vUjlkbjErQVFjVmFFV3RESXVXZGlyK2NvV1h1dlBIZjBLMWNCNWJmalN0UEx6Vy9KSU8yOHZjTXJVcCtpbVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjIyMzU3CWZpbGU6SHViXzAuMTMuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMy4wCmc3QUQvUS8rWktBcDRlNE5BWURJSXVZR2o2aWkwZHo2endwQ2NCMEZxNXdFYW9LRy9OWDV6cHhORExrcmp2NEhYRjNGa3hrR25uTDJFVHRvZTRkbEJBPT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.13.0_x64-setup.exe"
                                          }
                   }
 }
