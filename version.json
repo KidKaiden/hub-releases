@@ -1,5 +1,5 @@
 {
- "version": "0.15.0",
- "built": "2026-11-16T09:18:49.011Z",
- "notes": "New: Clipper: a new app that finds the big moments in finished and live streams (sound, a raised voice, a fast picture change, Twitch chat speed), cuts them into phone-shaped clips with word-by-word captions and the face on top, and waits for your tap. Approved clips go to Instagram (once you add your account) or to a Ready to post folder for TikTok; Clipper can make 8-bit videos from your ideas and remix memes. It finds the top GTA 6 streamers on Twitch and Kick for you once you add your free keys; World Link: set up from Admin with one button, finds your PC by itself, and remembers your password for each account; Universal Cable: the first screens for your shows and where they stream (sample data for now)"
+ "version": "0.16.0",
+ "built": "2026-11-16T10:33:24.599Z",
+ "notes": "New: Universal Cable is rebuilt: add the free streaming websites you use (Tubi, Pluto TV and others) and Cable shows what each one is showing, all in one place, with one search across all of them; Pick the look of Home: Netflix, Disney+, Paramount+, Prime Video, Max or Hulu style. The shows are always your websites' own; Press Play and the title opens on its website, in Cable's own window on the PC (pop-ups and ad networks blocked). If one website won't play it, Cable can look for the same title on your others. Improved: The PC app can now show pictures from websites"
 }

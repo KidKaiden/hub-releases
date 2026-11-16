@@ -1,11 +1,11 @@
 {
-    "version":  "0.15.0",
-    "notes":  "New: Clipper: a new app that finds the big moments in finished and live streams (sound, a raised voice, a fast picture change, Twitch chat speed), cuts them into phone-shaped clips with word-by-word captions and the face on top, and waits for your tap. Approved clips go to Instagram (once you add your account) or to a Ready to post folder for TikTok; Clipper can make 8-bit videos from your ideas and remix memes. It finds the top GTA 6 streamers on Twitch and Kick for you once you add your free keys; World Link: set up from Admin with one button, finds your PC by itself, and remembers your password for each account; Universal Cable: the first screens for your shows and where they stream (sample data for now)",
-    "pub_date":  "2026-11-16T09:16:19Z",
+    "version":  "0.16.0",
+    "notes":  "New: Universal Cable is rebuilt: add the free streaming websites you use (Tubi, Pluto TV and others) and Cable shows what each one is showing, all in one place, with one search across all of them; Pick the look of Home: Netflix, Disney+, Paramount+, Prime Video, Max or Hulu style. The shows are always your websites\u0027 own; Press Play and the title opens on its website, in Cable\u0027s own window on the PC (pop-ups and ad networks blocked). If one website won\u0027t play it, Cable can look for the same title on your others. Improved: The PC app can now show pictures from websites",
+    "pub_date":  "2026-11-16T10:31:43Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkNFVXRxWklYeXh3cWNMQmx3cHpZL1RyRTEyckxLLzM3eW8vVE1IVk40d1dsR0NmRCt4Sjl2NmRJUUNQeTAxN3Fnb3JXK1VJMFkrd1RQOG1VNFFYQWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODIwNzI3CWZpbGU6SHViXzAuMTUuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xNS4wCjAvc3duMnE0ZVNXdGxWb3djaXEwTG5ReXVNWlF4YXBKM0hFQmcwejkyZVYxVGZCR05kMFp3MXNmSmx3ZEUxSEJreE5JVDdENE1nS09QeU9ldmZSYUF3PT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.15.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkFaQ3ZJUTdQZEYrUmFsQW55QzJwVktKK3Vtdmd1cHFnNnkyTUtmd29BQXVOT1M1a3IwcE1ER0E3ZExRTXlkOEVpMlNGRHExTnpoUjhnQWhqMWJXWFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODI1MjAzCWZpbGU6SHViXzAuMTYuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xNi4wCktkaHJITGZ1RkRHR3pUVnA2cGwyRVN6Ulord1FsMHJibW1kUThZREt2dWdWY3NQYTNucUwzTHoydHpuMmRCaWRtVGs2M25oeEJtd0svc0lLN3l3VUN3PT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.16.0_x64-setup.exe"
                                          }
                   }
 }
