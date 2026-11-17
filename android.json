@@ -1,6 +1,6 @@
 {
-    "version":  "0.17.1",
-    "notes":  "Simulator: single fights use the chosen arena; sandbox arena plan defaults to same",
-    "pub_date":  "2026-11-17T16:58:51Z",
-    "url":  "files/Hub-0.17.1.apk"
+    "version":  "0.18.0",
+    "notes":  "New: Simulator: six new arrows (Rift the teleporter, Automaton the robot, Aeon the sentient god, Chrono, Crimson and Prism), each with its own power, ultimate, trail and sound; Simulator: two new stages, Circuit (a living neon circuit board) and Cosmos (a glass deck over deep space). Improved: Simulator Coliseum: arrows move slower and smoother, take wide curving runs at each other and stick with a target longer",
+    "pub_date":  "2026-11-17T17:51:13Z",
+    "url":  "files/Hub-0.18.0.apk"
 }

@@ -1,5 +1,5 @@
 {
- "version": "0.17.1",
- "built": "2026-11-17T17:00:46.761Z",
- "notes": "Simulator: single fights use the chosen arena; sandbox arena plan defaults to same"
+ "version": "0.18.0",
+ "built": "2026-11-17T17:53:38.691Z",
+ "notes": "New: Simulator: six new arrows (Rift the teleporter, Automaton the robot, Aeon the sentient god, Chrono, Crimson and Prism), each with its own power, ultimate, trail and sound; Simulator: two new stages, Circuit (a living neon circuit board) and Cosmos (a glass deck over deep space). Improved: Simulator Coliseum: arrows move slower and smoother, take wide curving runs at each other and stick with a target longer"
 }

@@ -1,11 +1,11 @@
 {
-    "version":  "0.17.1",
-    "notes":  "Simulator: single fights use the chosen arena; sandbox arena plan defaults to same",
-    "pub_date":  "2026-11-17T16:58:51Z",
+    "version":  "0.18.0",
+    "notes":  "New: Simulator: six new arrows (Rift the teleporter, Automaton the robot, Aeon the sentient god, Chrono, Crimson and Prism), each with its own power, ultimate, trail and sound; Simulator: two new stages, Circuit (a living neon circuit board) and Cosmos (a glass deck over deep space). Improved: Simulator Coliseum: arrows move slower and smoother, take wide curving runs at each other and stick with a target longer",
+    "pub_date":  "2026-11-17T17:51:13Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkNCTlZIZDJtVGlQR3RrVWI5ZTlrN1I5aW9vU2tPZy8zUTVEc1JsRld2eGdHTk1wVy9wMjhVU2p6aTBFRUpkRmZKZ2NHWThUOWp5UlgzcXY3ZGs2VlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTM0ODQ1CWZpbGU6SHViXzAuMTcuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xNy4xCkhML25kM3p1MVJPNGMvM0FyeHBzSERxMzBYQlZaME9iWktGTHlWZWZYN1NqeURNQktmYmlDeVFWdEs3S05SY2pSL3NTeWdNNDBEdFA5WTY5MGJZdEFnPT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.17.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkFEMWl2bWdYYlE5aklrOURkN2I4eURjUUl2Nzliei9nRjFON25wdVJNUDY2MVlwUEs3cG5NSHNrY3N5UVE4Rlh4UFV6bXR4OHZ4NFh5VUlYUFp6UHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTM4MDE3CWZpbGU6SHViXzAuMTguMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xOC4wCm8wSFBzR052NFUyZHJCV2dITkI2MGVnRklXdDVKd3BBNFdDZ3FDZzFpa1FZU2Q1bDQ0SFp0Q29OVFltNXJTbkZIMVN2eHpEenhBUW16YW9Ea3hDc0NBPT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.18.0_x64-setup.exe"
                                          }
                   }
 }
