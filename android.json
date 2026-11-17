@@ -1,6 +1,6 @@
 {
-    "version":  "0.17.0",
-    "notes":  "New: Simulator: a new app that runs neon-arrow tournaments and turns them into videos. Set one up by hand or at random, change every number in the simulation, watch it piece by piece, and download the intro, each fight, the finale and the whole tournament as separate MP4s, in Short and Long, PC and vertical, up to 4K; Simulator Factory: make whole tournaments\u0027 videos without watching, into a folder you choose, with files named in play order and marked SHORT or LONG; Simulator Sandbox: watch fights and tournaments for fun, make special-event characters, and record single fights. Plus a Coliseum mode where up to 6 arrows fight at once on one stadium stage; Add your own MP3 for the videos\u0027 music, with a play button to hear it first, and a full sound mixer with presets",
-    "pub_date":  "2026-11-17T16:48:06Z",
-    "url":  "files/Hub-0.17.0.apk"
+    "version":  "0.17.1",
+    "notes":  "Simulator: single fights use the chosen arena; sandbox arena plan defaults to same",
+    "pub_date":  "2026-11-17T16:58:51Z",
+    "url":  "files/Hub-0.17.1.apk"
 }
