@@ -1,11 +1,11 @@
 {
-    "version":  "0.18.0",
-    "notes":  "New: Simulator: six new arrows (Rift the teleporter, Automaton the robot, Aeon the sentient god, Chrono, Crimson and Prism), each with its own power, ultimate, trail and sound; Simulator: two new stages, Circuit (a living neon circuit board) and Cosmos (a glass deck over deep space). Improved: Simulator Coliseum: arrows move slower and smoother, take wide curving runs at each other and stick with a target longer",
-    "pub_date":  "2026-11-17T17:51:13Z",
+    "version":  "0.19.0",
+    "notes":  "New: Simulator Publish: send the tournament videos to YouTube (long ones, and Shorts), Instagram Reels, TikTok and Facebook, one after another in play order. Edit every title and caption, space them out by hours or by each platform\u0027s daily limit, or post all now 5 minutes apart. TikTok and Facebook get a Ready to post folder on your PC. Sign-ins stay on your PC; Simulator: the Chosen One, a fast, sturdy arrow with weak hits. Every 4 hits it fires its next technique: Blue (a sphere that curves in and shoves you away), Red (a slow sphere that drags you around it) and Purple (it runs to the far edge, aims, and fires a thick beam you can dodge if you are quick); Simulator Sandbox: switch the video you are watching between Short and Long",
+    "pub_date":  "2026-11-17T21:26:44Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkFEMWl2bWdYYlE5aklrOURkN2I4eURjUUl2Nzliei9nRjFON25wdVJNUDY2MVlwUEs3cG5NSHNrY3N5UVE4Rlh4UFV6bXR4OHZ4NFh5VUlYUFp6UHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTM4MDE3CWZpbGU6SHViXzAuMTguMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xOC4wCm8wSFBzR052NFUyZHJCV2dITkI2MGVnRklXdDVKd3BBNFdDZ3FDZzFpa1FZU2Q1bDQ0SFp0Q29OVFltNXJTbkZIMVN2eHpEenhBUW16YW9Ea3hDc0NBPT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.18.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4Wk80ZlZLbmU1VFRVYTByWHRYQ3ZwZGRPcEQ1c0tjQTVkWWUzQ0FiZXI3RHRiVERlWVI1VDdTN29hTFl3OXp2WkhxZ2xlZ2pEakVwSDRjMlJ0TllTU3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTUwOTA4CWZpbGU6SHViXzAuMTkuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xOS4wClVycTZMd1NTTXpJWUVRNFliUDd1djBMSm9UZTE4Yng4SzBKQXU2UHBLNytMQVZqd2ZJTXRmRHZHbkVORy95NFFvc2xBK1Y3MUs5QnU0cjkyaWpPOUFBPT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.19.0_x64-setup.exe"
                                          }
                   }
 }
