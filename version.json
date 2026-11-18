@@ -1,5 +1,5 @@
 {
- "version": "0.24.1",
- "built": "2026-11-18T14:33:11.046Z",
- "notes": "New: Simulator Sandbox: New seed plays a different battle at once with the same arrows and stage, and Back and Forward step through the last five seeds (the one showing and four back). It sits with the player's own controls, so it is there in full screen and right under the picture on an upright phone; numbered buttons under the video jump straight to a seed. Keys: N for a new seed, [ to go back, ] to go forward"
+ "version": "0.24.2",
+ "built": "2026-11-18T14:41:25.195Z",
+ "notes": "Fixed: Simulator, Judgement: the Devil v Angel event was being skipped. The Fast (short) cut of a tournament only plays the last seconds of each fight, so the opening Judgement never appeared in it; it now plays the Judgement first and then the last stretch (the same in Coliseum cups). It also never happened in a Coliseum battle: when the last two standing are the Devil and the Angel they are now judged and cast into Hell or Heaven there too, with the floor round the Coliseum changing as well"
 }

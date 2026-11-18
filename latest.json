@@ -1,11 +1,11 @@
 {
-    "version":  "0.24.1",
-    "notes":  "New: Simulator Sandbox: New seed plays a different battle at once with the same arrows and stage, and Back and Forward step through the last five seeds (the one showing and four back). It sits with the player\u0027s own controls, so it is there in full screen and right under the picture on an upright phone; numbered buttons under the video jump straight to a seed. Keys: N for a new seed, [ to go back, ] to go forward",
-    "pub_date":  "2026-11-18T14:31:26Z",
+    "version":  "0.24.2",
+    "notes":  "Fixed: Simulator, Judgement: the Devil v Angel event was being skipped. The Fast (short) cut of a tournament only plays the last seconds of each fight, so the opening Judgement never appeared in it; it now plays the Judgement first and then the last stretch (the same in Coliseum cups). It also never happened in a Coliseum battle: when the last two standing are the Devil and the Angel they are now judged and cast into Hell or Heaven there too, with the floor round the Coliseum changing as well",
+    "pub_date":  "2026-11-18T14:39:40Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkEyblplci9uVEVGMW53c2dOL3I2bS9GQURON1Z0OWEzSUY3QXluMmRwaGJ6L1NralU0SEVkMzlTeEo5S2xzR1dFa2VDL3hTSlJFRkthSHJZTEFVc0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDEyMzg5CWZpbGU6SHViXzAuMjQuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNC4xCnJETFQ0SW9LdjNncjNYbDhVSzVYUWtraVpGYURDRStSZEYySFZTT0x4QU1aUDBmbXlTYk5jYkp0NXJLVVhqbjU2T2Q1dGtySEFNVDlhS0NJcFVTUUFBPT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.24.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4Wk5wOEhLZTIwTG9LeitKb1hIY0NPTjVKTURJVEIzTWZkQWx0ck50alBrR3Z6enpYS0FLUHlGZnJUU2locVd6S2lNcTlUMDRtbmtxL0VydkFGekp6c0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDEyODgzCWZpbGU6SHViXzAuMjQuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNC4yCmtLbGtJamZmVE5Ed1ExN0s3bzk1ZVNUMHkzZ25WT1IzL0ZOcERoM3l0RWNsWTNHVVNZZkJ1dHVjYmVZWHQrWGhMY2dHNS9HMFdEeU9LSUVnRUVOZ0JnPT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.24.2_x64-setup.exe"
                                          }
                   }
 }
