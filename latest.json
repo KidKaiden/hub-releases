@@ -1,11 +1,11 @@
 {
-    "version":  "0.20.1",
-    "notes":  "New: Simulator: the logo, drawn in the arrows\u0027 own pixel style, a rainbow arrow pointing to the side with a rainbow trail on a neon grid, as a profile picture and in several sizes (apps/simulator/branding). Improved: Simulator Publish: if you are in the demo, it now says so and has a Sign in to my Hub button that takes you to the sign-in screen and back to Publish (posting needs your real account, because your YouTube and Instagram sign-ins live on your home PC). If the server cannot be reached it says what is needed and has a Try again button",
-    "pub_date":  "2026-11-17T23:51:49Z",
+    "version":  "0.20.2",
+    "notes":  "Improved: Simulator Publish: when the Hub server on your home PC is an older version without posting (the page said Not found), it now says exactly that and what to do: double-click update.cmd on the PC, then press Try again",
+    "pub_date":  "2026-11-17T23:59:07Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkZGTTE5YkFwQlpoUW1tR2IzbWtQRUo5T0o2SW4rT0VKMEpqakVhWThnUG4zbldlbGhzMDlDYkpiNyszY1d2UldZTWpuQXVaZGFXUDA0OEdMVDRWR3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTU5NjUwCWZpbGU6SHViXzAuMjAuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yMC4xCmZydnYvVGd5QXlGY0kxZG91WEZkMk5QQ0hKaC8zZU94T1hwcU1XbWxCR3E1cjQvSFA2Y3ZtMVl3TWdnTmNCRjloZTVwbDBKTUplVWlRYXNmWkNHWkN3PT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.20.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4Wkd3elVoNExxejRaZ2xna2J5QUg5bXVnRmc1R2UvNi9FMU5TbFZ4bjFBbDZyaFJaODZSdFFSSjEzaEZlQ0F0K3ZyTGl4eUJkSENXRW0xeXUxV1FtNkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTYwMDU2CWZpbGU6SHViXzAuMjAuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yMC4yCmMrMFJsSHJOQXFqM3hwQTNYdWdKRC9hQzk5SFlYM1RyUUJzRXdqUFo4L2FRQUVqY29jWEFkbmxVMnBSZXF5ZzllVWlaeHFOSXhkOHIwZHBlVU9QT0JnPT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.20.2_x64-setup.exe"
                                          }
                   }
 }

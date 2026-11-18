@@ -1,6 +1,6 @@
 {
-    "version":  "0.20.1",
-    "notes":  "New: Simulator: the logo, drawn in the arrows\u0027 own pixel style, a rainbow arrow pointing to the side with a rainbow trail on a neon grid, as a profile picture and in several sizes (apps/simulator/branding). Improved: Simulator Publish: if you are in the demo, it now says so and has a Sign in to my Hub button that takes you to the sign-in screen and back to Publish (posting needs your real account, because your YouTube and Instagram sign-ins live on your home PC). If the server cannot be reached it says what is needed and has a Try again button",
-    "pub_date":  "2026-11-17T23:51:49Z",
-    "url":  "files/Hub-0.20.1.apk"
+    "version":  "0.20.2",
+    "notes":  "Improved: Simulator Publish: when the Hub server on your home PC is an older version without posting (the page said Not found), it now says exactly that and what to do: double-click update.cmd on the PC, then press Try again",
+    "pub_date":  "2026-11-17T23:59:07Z",
+    "url":  "files/Hub-0.20.2.apk"
 }
