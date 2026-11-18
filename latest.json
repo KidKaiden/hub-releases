@@ -1,11 +1,11 @@
 {
-    "version":  "0.23.1",
-    "notes":  "Improved: Simulator posting to TikTok now works past the pop-ups. TikTok puts a Turn on automatic content checks box and a New editing features tip over the page as soon as a video goes in, which blocked every click and made the post fail. It now clears them (it says no to the checks, so your account settings are never changed), replaces the caption TikTok pre-fills with the file name, and then posts. The other sites clear their not-now pop-ups too. After updating, press Retry on the failed videos in Publish; Simulator Tournament studio: the three columns now scroll on their own, so the preview and the Run button stay put. Steps fold up with a one-line summary of how they are set, and the fighters picker, dials and music steps are tidier",
-    "pub_date":  "2026-11-18T11:06:46Z",
+    "version":  "0.23.2",
+    "notes":  "Improved: Simulator posting to TikTok now turns on TikTok\u0027s automatic content checks when it asks (you said to), instead of closing the box. Only that one question is accepted; every other pop-up is just closed. Press Retry on the failed videos in Publish after updating",
+    "pub_date":  "2026-11-18T11:09:54Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WktwQ3ZObXdyY3ByeGZOelVMSStVVGw5a1UxVjJKeHgxd21hYUYwcnQ4dDRSV3lCdjJJN2R0OUFoQjlnUmZuS3lNU05zWUkzYnhVSHBXbmtTOVY4ZUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAwMTA1CWZpbGU6SHViXzAuMjMuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yMy4xCjVOYXdEWG9aY29BMjd6NDBzTjEya3lMZWZNcGZpUnhFVW9LRk5PbytTTWdOdEV0c3Y1QXFwZWxQb1Z4RWVkS0dXVVQ3cVRPQ3V2dGNITTJIZzJYQ0J3PT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.23.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4Wk9OSnQzSFRaOU1YRW0yV2NmcEZ4RDJIQ01TRUpZMDZPSXhzaUt5bCsrRmNSa0RBeHJTQm9BVzFHT29OZFZEd3N3d0hlTXhzWm5JdGUxQnpyUDJQbndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAwMjkzCWZpbGU6SHViXzAuMjMuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yMy4yCis4OHRaaGRONW5UdDRLZXZRbFV3cm10RDVNZHhiSk5SRUNqeTZ3L0pzT1cxVk1LSDZqL2pkMTlZdEpHM3Z0YUZSNytXOXNqSXc5QXcvaEg1T3JkS0FRPT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.23.2_x64-setup.exe"
                                          }
                   }
 }
