@@ -1,5 +1,5 @@
 {
- "version": "0.24.2",
- "built": "2026-11-18T14:41:25.195Z",
- "notes": "Fixed: Simulator, Judgement: the Devil v Angel event was being skipped. The Fast (short) cut of a tournament only plays the last seconds of each fight, so the opening Judgement never appeared in it; it now plays the Judgement first and then the last stretch (the same in Coliseum cups). It also never happened in a Coliseum battle: when the last two standing are the Devil and the Angel they are now judged and cast into Hell or Heaven there too, with the floor round the Coliseum changing as well"
+ "version": "0.24.3",
+ "built": "2026-11-18T21:45:19.899Z",
+ "notes": "Improved: Simulator, Judgement looks better: the HELL / HEAVEN banner sits on a dark band in bright white letters with a glow, so it can always be read; the veil at the swap is a bloom that stays bright in the middle instead of a flat wall; in the omen a column of light comes down on the Angel and fire climbs up the Devil; in the realm both fighters have a living aura (embers off the Devil, feathers of light off the Angel) that flares in their Last Stand; Simulator, stronger abilities: Rift blinks hit and its ultimate has five cuts ending in a tear; Automaton fires faster, launches a missile salvo and its Overclock is a double shockwave; Chrono's field hurts and its rewind leaves an echo that explodes; Crimson hits harder the lower its health, heals more and its Blood Moon drains three more times; Prism fires five beams and spins faster; Bomber lays six mines that hit harder; Visitor fires two probes; Swarm's storm and the Jester's jackpot hit harder. Fixed: Simulator, Coliseum on a wide (PC) frame: the HELL / HEAVEN banner was turned sideways with the arena; it is now drawn upright across the screen"
 }

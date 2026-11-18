@@ -1,11 +1,11 @@
 {
-    "version":  "0.24.2",
-    "notes":  "Fixed: Simulator, Judgement: the Devil v Angel event was being skipped. The Fast (short) cut of a tournament only plays the last seconds of each fight, so the opening Judgement never appeared in it; it now plays the Judgement first and then the last stretch (the same in Coliseum cups). It also never happened in a Coliseum battle: when the last two standing are the Devil and the Angel they are now judged and cast into Hell or Heaven there too, with the floor round the Coliseum changing as well",
-    "pub_date":  "2026-11-18T14:39:40Z",
+    "version":  "0.24.3",
+    "notes":  "Improved: Simulator, Judgement looks better: the HELL / HEAVEN banner sits on a dark band in bright white letters with a glow, so it can always be read; the veil at the swap is a bloom that stays bright in the middle instead of a flat wall; in the omen a column of light comes down on the Angel and fire climbs up the Devil; in the realm both fighters have a living aura (embers off the Devil, feathers of light off the Angel) that flares in their Last Stand; Simulator, stronger abilities: Rift blinks hit and its ultimate has five cuts ending in a tear; Automaton fires faster, launches a missile salvo and its Overclock is a double shockwave; Chrono\u0027s field hurts and its rewind leaves an echo that explodes; Crimson hits harder the lower its health, heals more and its Blood Moon drains three more times; Prism fires five beams and spins faster; Bomber lays six mines that hit harder; Visitor fires two probes; Swarm\u0027s storm and the Jester\u0027s jackpot hit harder. Fixed: Simulator, Coliseum on a wide (PC) frame: the HELL / HEAVEN banner was turned sideways with the arena; it is now drawn upright across the screen",
+    "pub_date":  "2026-11-18T21:43:07Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4Wk5wOEhLZTIwTG9LeitKb1hIY0NPTjVKTURJVEIzTWZkQWx0ck50alBrR3Z6enpYS0FLUHlGZnJUU2locVd6S2lNcTlUMDRtbmtxL0VydkFGekp6c0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDEyODgzCWZpbGU6SHViXzAuMjQuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNC4yCmtLbGtJamZmVE5Ed1ExN0s3bzk1ZVNUMHkzZ25WT1IzL0ZOcERoM3l0RWNsWTNHVVNZZkJ1dHVjYmVZWHQrWGhMY2dHNS9HMFdEeU9LSUVnRUVOZ0JnPT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.24.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WlA1WUlkamZzZ0FCK0huZFlhcHhlM1VqN29aT2k3ZUZ2YWxmd0xHb0d4VktvM1FXalpGOGFBSmk5VFluSFJ4MHRDSXdJeWdid3UyUW9NWkZnWmZrV1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDM4MzE4CWZpbGU6SHViXzAuMjQuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNC4zClFhd2dVT3RmZHVMeGJoOW1MQXhEdStGa05sV2M3T2NhclYyVEZ2Wkh2UGtPdUJUVU1PQ0RoQ2VKRnZlVnRiVVc1VmZ5cm54dkFOYUhhRndVdFdSMUFRPT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.24.3_x64-setup.exe"
                                          }
                   }
 }
