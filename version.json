@@ -1,5 +1,5 @@
 {
- "version": "0.24.7",
- "built": "2026-11-18T23:41:10.447Z",
- "notes": "Improved: Simulator, pierce shots rebuilt for every arrow as a sequence with clear beats, still at the picture's own scale. Lock-on: chevrons flow along the line to the target, a diamond reticle closes in on it and ticks, and light gathers into the arrow. The dash: streaks flank the arrow and the air folds back off its tip in a V. The impact: a flash and shake, then a star of spikes that grows and fades, rings in both of the arrow's colours, and a thin bright cut left through the target along the dash. The impact also takes a flavour from each arrow's own character: arcs for electric arrows, a cross flare and sparks for metal, shards for glass and crystal, droplets for water, a spiral shear for air, cracks in the ground for the heavy arrows, a radiant halo for the bell-voiced ones, and splinters for wood"
+ "version": "0.24.8",
+ "built": "2026-11-18T23:52:29.515Z",
+ "notes": "New: Ronin leaves pink and cyan afterimages as he moves, and a bright arc in front of him while he parries. His draw has a dotted line and a glint, and Thousand Cuts wraps the enemy in a neon ring that tightens with every cut.. Improved: Ronin's slashes are neon cuts: a curved, tapered crescent with pink and cyan edges, a sweeping bright head, a lingering glow and sparks. The same cuts are used by other slashing arrows in white and silver.; Release notes are shorter, so the what's-new note fits a phone screen.. Fixed: Slash sounds rebuilt: they sounded like whistles and a ray gun. A cut is now a rush of air that closes down as the blade passes, a short edge, and a faint steel ring, with no sweeping tones."
 }
