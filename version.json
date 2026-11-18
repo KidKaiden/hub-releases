@@ -1,5 +1,5 @@
 {
- "version": "0.20.2",
- "built": "2026-11-18T00:00:58.219Z",
- "notes": "Improved: Simulator Publish: when the Hub server on your home PC is an older version without posting (the page said Not found), it now says exactly that and what to do: double-click update.cmd on the PC, then press Try again"
+ "version": "0.21.0",
+ "built": "2026-11-18T09:18:15.456Z",
+ "notes": "New: Simulator Publish: connect Instagram, TikTok, Facebook and YouTube the easy way. Press Connect, a normal browser window opens on your PC, sign in as you always do and close it. From then on the server posts for you through that signed-in browser: it opens the site, picks the video, types the caption and presses post, on the schedule you choose. No developer accounts, keys or approvals. The old developer-key setup for YouTube and Instagram is still there under Advanced, and anything you do not connect still goes to the Ready to post folder. The first real runs may need a small adjustment, because each site's page is different"
 }
