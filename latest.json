@@ -1,11 +1,11 @@
 {
-    "version":  "0.23.2",
-    "notes":  "Improved: Simulator posting to TikTok now turns on TikTok\u0027s automatic content checks when it asks (you said to), instead of closing the box. Only that one question is accepted; every other pop-up is just closed. Press Retry on the failed videos in Publish after updating",
-    "pub_date":  "2026-11-18T11:09:54Z",
+    "version":  "0.23.3",
+    "notes":  "New: Publish \u003e Titles and captions: choose who can see posts on TikTok and YouTube (Everyone, Followers only or Only me), and save the whole way posts go out as a named preset (audience, hashtags, every platform\u0027s captions and daily limits) to load again in one press. Three starter presets are included. A single video in the queue can also have its own audience. Fixed: Simulator posts to TikTok were only visible to followers, because TikTok starts every post at Followers and the poster never changed it. It now sets who can see the post (Everyone by default) before pressing Post. If TikTok does not offer Everyone on the account (it hides it when the account is set to Private), nothing is posted and the error says so. Turn off Private account in the TikTok app, then press Retry",
+    "pub_date":  "2026-11-18T12:48:24Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4Wk9OSnQzSFRaOU1YRW0yV2NmcEZ4RDJIQ01TRUpZMDZPSXhzaUt5bCsrRmNSa0RBeHJTQm9BVzFHT29OZFZEd3N3d0hlTXhzWm5JdGUxQnpyUDJQbndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAwMjkzCWZpbGU6SHViXzAuMjMuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yMy4yCis4OHRaaGRONW5UdDRLZXZRbFV3cm10RDVNZHhiSk5SRUNqeTZ3L0pzT1cxVk1LSDZqL2pkMTlZdEpHM3Z0YUZSNytXOXNqSXc5QXcvaEg1T3JkS0FRPT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.23.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkdOS0ZILzlTWkJGZThuNVVPZStjRnVlVFVKbkMzcE9ld3Q1Vm5ZMit5bCtJRG9jdjBwYmhNZHhHTkx3TjBDMHJaOEdyUW1qajBkOURqS1hxQzREM1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDA2MjA3CWZpbGU6SHViXzAuMjMuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yMy4zCjhWblZpenozR2VVM05OOExQMEl5YlRLSG94ZjBZbWRldzFTVGpwZUU5czljeHYrMS9KempyZHVXV05KbzhUdTJSUXk0UTJuV1l6TC9CbzdzVS9WMkFnPT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.23.3_x64-setup.exe"
                                          }
                   }
 }

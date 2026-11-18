@@ -1,6 +1,6 @@
 {
-    "version":  "0.23.2",
-    "notes":  "Improved: Simulator posting to TikTok now turns on TikTok\u0027s automatic content checks when it asks (you said to), instead of closing the box. Only that one question is accepted; every other pop-up is just closed. Press Retry on the failed videos in Publish after updating",
-    "pub_date":  "2026-11-18T11:09:54Z",
-    "url":  "files/Hub-0.23.2.apk"
+    "version":  "0.23.3",
+    "notes":  "New: Publish \u003e Titles and captions: choose who can see posts on TikTok and YouTube (Everyone, Followers only or Only me), and save the whole way posts go out as a named preset (audience, hashtags, every platform\u0027s captions and daily limits) to load again in one press. Three starter presets are included. A single video in the queue can also have its own audience. Fixed: Simulator posts to TikTok were only visible to followers, because TikTok starts every post at Followers and the poster never changed it. It now sets who can see the post (Everyone by default) before pressing Post. If TikTok does not offer Everyone on the account (it hides it when the account is set to Private), nothing is posted and the error says so. Turn off Private account in the TikTok app, then press Retry",
+    "pub_date":  "2026-11-18T12:48:24Z",
+    "url":  "files/Hub-0.23.3.apk"
 }
