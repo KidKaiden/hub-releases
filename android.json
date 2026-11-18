@@ -1,6 +1,6 @@
 {
-    "version":  "0.23.3",
-    "notes":  "New: Publish \u003e Titles and captions: choose who can see posts on TikTok and YouTube (Everyone, Followers only or Only me), and save the whole way posts go out as a named preset (audience, hashtags, every platform\u0027s captions and daily limits) to load again in one press. Three starter presets are included. A single video in the queue can also have its own audience. Fixed: Simulator posts to TikTok were only visible to followers, because TikTok starts every post at Followers and the poster never changed it. It now sets who can see the post (Everyone by default) before pressing Post. If TikTok does not offer Everyone on the account (it hides it when the account is set to Private), nothing is posted and the error says so. Turn off Private account in the TikTok app, then press Retry",
-    "pub_date":  "2026-11-18T12:48:24Z",
-    "url":  "files/Hub-0.23.3.apk"
+    "version":  "0.23.4",
+    "notes":  "New: Simulator on a phone turned sideways: the video fills the screen with its buttons beside it (using the empty sides), and the settings come after it as you scroll. Back to page brings the usual bars back. A wide window with the tall video also puts the buttons beside it. Improved: Simulator on a phone, held upright: the video is much bigger and the buttons fit on one row under it, so the whole player is on screen at once, with the settings under it. The time showed as a bare colon; it now reads 0:00 / 0:42. Fixed: Simulator Publish page: it no longer breaks when the app has updated but the server on the PC has not yet (0.23.3\u0027s new audience settings did that). It says the server is older and carries on with the old settings until it is updated; Simulator: the arrows gallery shows two to a row on a phone instead of one huge picture each. The Sound page no longer scrolls sideways (a slider\u0027s value bubble stuck out past the edge; it affected every slider in the apps)",
+    "pub_date":  "2026-11-18T13:05:56Z",
+    "url":  "files/Hub-0.23.4.apk"
 }
