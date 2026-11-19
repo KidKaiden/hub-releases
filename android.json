@@ -1,6 +1,6 @@
 {
-    "version":  "0.25.8",
-    "notes":  "Improved: The glow round the arrows is evened out: some threw 5 times as much light on the floor as others. Each arrow was measured and adjusted so none washes out what is round it and none is too dim. The look itself is unchanged.",
-    "pub_date":  "2026-11-19T13:22:11Z",
-    "url":  "files/Hub-0.25.8.apk"
+    "version":  "0.25.9",
+    "notes":  "Fixed: Drawing the long videos failed with an error about onData and a position argument. The higher video quality made a full tournament video too big for the normal way of building it, which set off an old mistake in the big-file writer. The writer is fixed, and long videos now use a rate that keeps the file under about 380 MB (short clips keep the full quality).",
+    "pub_date":  "2026-11-19T14:01:15Z",
+    "url":  "files/Hub-0.25.9.apk"
 }

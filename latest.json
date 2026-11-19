@@ -1,11 +1,11 @@
 {
-    "version":  "0.25.8",
-    "notes":  "Improved: The glow round the arrows is evened out: some threw 5 times as much light on the floor as others. Each arrow was measured and adjusted so none washes out what is round it and none is too dim. The look itself is unchanged.",
-    "pub_date":  "2026-11-19T13:22:11Z",
+    "version":  "0.25.9",
+    "notes":  "Fixed: Drawing the long videos failed with an error about onData and a position argument. The higher video quality made a full tournament video too big for the normal way of building it, which set off an old mistake in the big-file writer. The writer is fixed, and long videos now use a rate that keeps the file under about 380 MB (short clips keep the full quality).",
+    "pub_date":  "2026-11-19T14:01:15Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkxqUFVYNUdoSXhvS1JrZnBOR0FKSDVPMkZEWFIyaUI3YjVUb2FLRWhhY3l4MmFvU0xiRlZqWGN2V3hiSXAzTzhoYmlQdlFDK3puSitIdll1MU1SUGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDk0NjQ2CWZpbGU6SHViXzAuMjUuOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNS44CnFBSE5OWi9XL0YvZDVxNGpueE02cUdVeXRYeU0rbDZHWGRKZVJWTjdaZy8zanlZMkxLVUhiOG5DZkZLcjdEMkFMNTA3aSt0cUVDbWJUclF4dTJlRENnPT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.25.8_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkpqdDJuYURpWExzdDZkQWkwNG1kcTRDUHRPcXlaYzIvMTdNN3duOU5LZzM0MTc2QnVpWUJyMHFYQmxOOXB4bEdWZXRsVVVDS2JnOWI4SnRRcURQMGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDk2OTg5CWZpbGU6SHViXzAuMjUuOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNS45CjJnMGtIWGNpLzQ2M0tEOVhCTHlkOE5qeTBYN1dNSmpHVmxCamZTZG1zVGVCOU90SmNjRW1TTGhpejEwU2NKUU0rejlrQ2FQcWxMQWJadTdLMnJPZ0RRPT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.25.9_x64-setup.exe"
                                          }
                   }
 }
