@@ -1,11 +1,11 @@
 {
-    "version":  "0.25.9",
-    "notes":  "Fixed: Drawing the long videos failed with an error about onData and a position argument. The higher video quality made a full tournament video too big for the normal way of building it, which set off an old mistake in the big-file writer. The writer is fixed, and long videos now use a rate that keeps the file under about 380 MB (short clips keep the full quality).",
-    "pub_date":  "2026-11-19T14:01:15Z",
+    "version":  "0.26.0",
+    "notes":  "Improved: Arrowhead works without your Hub: with the server unreachable (PC off, away from Wi-Fi, not synced) the Simulator still opens, runs battles and tournaments, draws the videos and downloads them to the device. Checked in the app with an unreachable server. Only posting from the Publish page needs the PC.. Fixed: Downloading a big video in the PC app (a long tournament video is hundreds of MB) could run the app out of memory, because the whole file went over as one message. It now saves in pieces straight into Downloads. Phones keep their videos a little smaller so they can save them too.",
+    "pub_date":  "2026-11-19T14:15:50Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkpqdDJuYURpWExzdDZkQWkwNG1kcTRDUHRPcXlaYzIvMTdNN3duOU5LZzM0MTc2QnVpWUJyMHFYQmxOOXB4bEdWZXRsVVVDS2JnOWI4SnRRcURQMGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDk2OTg5CWZpbGU6SHViXzAuMjUuOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNS45CjJnMGtIWGNpLzQ2M0tEOVhCTHlkOE5qeTBYN1dNSmpHVmxCamZTZG1zVGVCOU90SmNjRW1TTGhpejEwU2NKUU0rejlrQ2FQcWxMQWJadTdLMnJPZ0RRPT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.25.9_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkpVT09OdzlOMzdpbng2K0lULzV5TVRpUnFmcjQwb0tQZlNsNUFuVWVSS1Btc09abUV3Q01SbC9BSy9qYm9PczV3Y09OQWpHbDB0cEVNZXIxTVdXdXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDk3ODY3CWZpbGU6SHViXzAuMjYuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNi4wCjRJRVRvUWlLbXRUUU55SnFyNTBNTEs2bVlRY2s3ZkwrWmNseWQxWTB2WkFUajQ5RnhqUnAzbjhoVGJ3bUxpR3BZbTd3WkZOblBtT3p2TTZNME5seURnPT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.26.0_x64-setup.exe"
                                          }
                   }
 }
