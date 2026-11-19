@@ -1,5 +1,5 @@
 {
- "version": "0.25.3",
- "built": "2026-11-19T11:04:20.970Z",
- "notes": "Fixed: Instagram and TikTok sign-in windows opened off-screen (open, but invisible and out of reach) because the browser remembered a screen that is no longer there. The window now always opens on screen, any stray one is closed first, and the button becomes Open the window again while one is open."
+ "version": "0.25.4",
+ "built": "2026-11-19T11:35:16.344Z",
+ "notes": "Fixed: Sign-in windows (Instagram, TikTok, Facebook, YouTube) now start from a clean browser profile. Edge was signing each one in to your Microsoft account and syncing old saved passwords in, which could fill a wrong password into the form. Password and form filling and extensions are now off there."
 }

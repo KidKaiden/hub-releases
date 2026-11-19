@@ -1,11 +1,11 @@
 {
-    "version":  "0.25.3",
-    "notes":  "Fixed: Instagram and TikTok sign-in windows opened off-screen (open, but invisible and out of reach) because the browser remembered a screen that is no longer there. The window now always opens on screen, any stray one is closed first, and the button becomes Open the window again while one is open.",
-    "pub_date":  "2026-11-19T11:02:31Z",
+    "version":  "0.25.4",
+    "notes":  "Fixed: Sign-in windows (Instagram, TikTok, Facebook, YouTube) now start from a clean browser profile. Edge was signing each one in to your Microsoft account and syncing old saved passwords in, which could fill a wrong password into the form. Password and form filling and extensions are now off there.",
+    "pub_date":  "2026-11-19T11:33:22Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkRsS0FRNUsrM2NjcnBlOWx0czdKN3dmakwzdnBuTjYzZ0phZFZGR3RubjA2Mlh5M29vRVRWQjBGazV5OFNxUkxMc2o5WCtkRTJxV3ZBV1hLdm5sdUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDg2MjU5CWZpbGU6SHViXzAuMjUuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNS4zCkdFT0dnRTdWMWQrMVZyVHBmNTNoVXFjZk1EdWt0dG5tL0ZITEZNMm1uTjVpSmpHTDh4d25EYU4vdzhheVZNM1NlZFVRT285RkR4dEJoZ3FHSlNyUkN3PT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.25.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4Wkphb2R3RE1ibWVrT043RVFGNithMGdBSEZvWU9wUklGMS9wc2lKcnR1S2d5eElpcTlzMi80Wk9GbFowbnI3MW8wRFVSUEZPT3EwZ21IbGVnUFluN3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDg4MTE0CWZpbGU6SHViXzAuMjUuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNS40CkZ6N3MvRHExb2VxZHdlcDR3R1ZFdnIybzBYbjQrV1YrUXhzNGdVRGZqaldHVnIxS0pTY2x0S052Y0ZGUWcwTzMzcG1YVWIrdnVCUklIcnppYXU1akNBPT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.25.4_x64-setup.exe"
                                          }
                   }
 }
