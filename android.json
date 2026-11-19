@@ -1,6 +1,6 @@
 {
-    "version":  "0.25.7",
-    "notes":  "Improved: Vertical fight videos now fill the whole frame instead of leaving a dark empty strip: a series title and round tag across the top, and a live stats panel under the fight (damage, hits, biggest hit, ultimates). The matchup card shows both names and Who wins? from the very first frame. TikTok had marked one video as low quality and unoriginal; the look of the arena is unchanged.; Exported videos are sharper: a higher bitrate (about 20 Mbit/s at 1080p) so pixel art stays clean. Re-export your vertical videos to get the new look.. Fixed: Full screen on the Tournament page squashed the wide video on a 1080p screen. The picture now always keeps its exact shape.",
-    "pub_date":  "2026-11-19T12:34:04Z",
-    "url":  "files/Hub-0.25.7.apk"
+    "version":  "0.25.8",
+    "notes":  "Improved: The glow round the arrows is evened out: some threw 5 times as much light on the floor as others. Each arrow was measured and adjusted so none washes out what is round it and none is too dim. The look itself is unchanged.",
+    "pub_date":  "2026-11-19T13:22:11Z",
+    "url":  "files/Hub-0.25.8.apk"
 }
