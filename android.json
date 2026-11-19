@@ -1,6 +1,6 @@
 {
-    "version":  "0.24.8",
-    "notes":  "New: Ronin leaves pink and cyan afterimages as he moves, and a bright arc in front of him while he parries. His draw has a dotted line and a glint, and Thousand Cuts wraps the enemy in a neon ring that tightens with every cut.. Improved: Ronin\u0027s slashes are neon cuts: a curved, tapered crescent with pink and cyan edges, a sweeping bright head, a lingering glow and sparks. The same cuts are used by other slashing arrows in white and silver.; Release notes are shorter, so the what\u0027s-new note fits a phone screen.. Fixed: Slash sounds rebuilt: they sounded like whistles and a ray gun. A cut is now a rush of air that closes down as the blade passes, a short edge, and a faint steel ring, with no sweeping tones.",
-    "pub_date":  "2026-11-18T23:50:06Z",
-    "url":  "files/Hub-0.24.8.apk"
+    "version":  "0.24.9",
+    "notes":  "Improved: Ronin leaves neon afterimages of himself: a row of pink silhouettes along his draw, and one at the start of every cut in Thousand Cuts, which also darkens the stage round the enemy and ends on a big X. The coloured trail is gone.. Fixed: Slash sounds were far too quiet (about a quarter as loud as a normal hit); they are now clearly audible.; Ronin: the slashes and Thousand Cuts were too thin to see. They are now thick, bright neon cuts.",
+    "pub_date":  "2026-11-19T00:13:19Z",
+    "url":  "files/Hub-0.24.9.apk"
 }

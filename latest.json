@@ -1,11 +1,11 @@
 {
-    "version":  "0.24.8",
-    "notes":  "New: Ronin leaves pink and cyan afterimages as he moves, and a bright arc in front of him while he parries. His draw has a dotted line and a glint, and Thousand Cuts wraps the enemy in a neon ring that tightens with every cut.. Improved: Ronin\u0027s slashes are neon cuts: a curved, tapered crescent with pink and cyan edges, a sweeping bright head, a lingering glow and sparks. The same cuts are used by other slashing arrows in white and silver.; Release notes are shorter, so the what\u0027s-new note fits a phone screen.. Fixed: Slash sounds rebuilt: they sounded like whistles and a ray gun. A cut is now a rush of air that closes down as the blade passes, a short edge, and a faint steel ring, with no sweeping tones.",
-    "pub_date":  "2026-11-18T23:50:06Z",
+    "version":  "0.24.9",
+    "notes":  "Improved: Ronin leaves neon afterimages of himself: a row of pink silhouettes along his draw, and one at the start of every cut in Thousand Cuts, which also darkens the stage round the enemy and ends on a big X. The coloured trail is gone.. Fixed: Slash sounds were far too quiet (about a quarter as loud as a normal hit); they are now clearly audible.; Ronin: the slashes and Thousand Cuts were too thin to see. They are now thick, bright neon cuts.",
+    "pub_date":  "2026-11-19T00:13:19Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkxMWVAzT0FzZkVqSWJTaXQwbGNXZFhwY3hETlQ3WTB1M2F1bzhSMHZhc2MvYlVveGM3aGNRdnE5NHFsWHdHRVl3dUVFVWJYS3kxWUF3QjNMTkJKU3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDQ1OTQ3CWZpbGU6SHViXzAuMjQuOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNC44CmhsRUlaQm1YNW1hbWxYYmptMzIzTDZoa3JvS1Y2aStKdFQvQmdnNUxmZ1pmM3BTQ3Z1QWlyMHZlVnJzb3NTR3d4aUQxaERRa1ZOTk5KUmx5Z24vYUFnPT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.24.8_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4Wkc5RkhkalRPNU5vSXJ2MndCZzZGOWI1WXpMTlpucHFGTWNxL1c2ZFBTKzNFcnoxWXgvU3EzYVlMMTVzQ0VrNy80SXJVTkFDL21kNTczSTBickRVdVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDQ3MzA4CWZpbGU6SHViXzAuMjQuOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNC45CnhXeU9iUkVNT2RGaG1BbVNyYjhaYnRUYUZ6dkRTTkk3b29HbFgyU2dnaE5RMEdYREZzc0VlSVJnRXJPMGVwOVFBenFYdzUxWjhnaERnNnRWSkYvK0NBPT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.24.9_x64-setup.exe"
                                          }
                   }
 }
