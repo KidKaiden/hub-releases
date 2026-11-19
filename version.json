@@ -1,5 +1,5 @@
 {
- "version": "0.24.9",
- "built": "2026-11-19T00:15:09.829Z",
- "notes": "Improved: Ronin leaves neon afterimages of himself: a row of pink silhouettes along his draw, and one at the start of every cut in Thousand Cuts, which also darkens the stage round the enemy and ends on a big X. The coloured trail is gone.. Fixed: Slash sounds were far too quiet (about a quarter as loud as a normal hit); they are now clearly audible.; Ronin: the slashes and Thousand Cuts were too thin to see. They are now thick, bright neon cuts."
+ "version": "0.25.0",
+ "built": "2026-11-19T00:22:25.504Z",
+ "notes": "New: Blitz is now Sonic. As it fights it gathers blue electric energy and gets faster. When full it curls up and revs like a spin dash, then rolls as a ball that homes in on the enemy and bounces off it. Three bounces, then a fourth big one that hits hardest and throws both far apart. After that its speed dies and it has to build up again.; Super Blitz: after the fourth full roll, the big bounce turns Blitz golden for a while, stronger and faster, with flames standing off it.. Improved: New Blitz look: crackling arcs and Flash-style blue afterimages while it charges, a shaded spinning ball with a motion blur and trail, lightning on the big bounce, and a golden burst for Super. New sounds for the rev, launch, bounces, big bounce and Super."
 }

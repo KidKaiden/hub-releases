@@ -1,11 +1,11 @@
 {
-    "version":  "0.24.9",
-    "notes":  "Improved: Ronin leaves neon afterimages of himself: a row of pink silhouettes along his draw, and one at the start of every cut in Thousand Cuts, which also darkens the stage round the enemy and ends on a big X. The coloured trail is gone.. Fixed: Slash sounds were far too quiet (about a quarter as loud as a normal hit); they are now clearly audible.; Ronin: the slashes and Thousand Cuts were too thin to see. They are now thick, bright neon cuts.",
-    "pub_date":  "2026-11-19T00:13:19Z",
+    "version":  "0.25.0",
+    "notes":  "New: Blitz is now Sonic. As it fights it gathers blue electric energy and gets faster. When full it curls up and revs like a spin dash, then rolls as a ball that homes in on the enemy and bounces off it. Three bounces, then a fourth big one that hits hardest and throws both far apart. After that its speed dies and it has to build up again.; Super Blitz: after the fourth full roll, the big bounce turns Blitz golden for a while, stronger and faster, with flames standing off it.. Improved: New Blitz look: crackling arcs and Flash-style blue afterimages while it charges, a shaded spinning ball with a motion blur and trail, lightning on the big bounce, and a golden burst for Super. New sounds for the rev, launch, bounces, big bounce and Super.",
+    "pub_date":  "2026-11-19T00:20:36Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4Wkc5RkhkalRPNU5vSXJ2MndCZzZGOWI1WXpMTlpucHFGTWNxL1c2ZFBTKzNFcnoxWXgvU3EzYVlMMTVzQ0VrNy80SXJVTkFDL21kNTczSTBickRVdVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDQ3MzA4CWZpbGU6SHViXzAuMjQuOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNC45CnhXeU9iUkVNT2RGaG1BbVNyYjhaYnRUYUZ6dkRTTkk3b29HbFgyU2dnaE5RMEdYREZzc0VlSVJnRXJPMGVwOVFBenFYdzUxWjhnaERnNnRWSkYvK0NBPT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.24.9_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkFzbXRFNDNic1VpQUlvSy9zdnp4bVdZSklVeE9WUmNTOEE5clU0dk4rWlJCeGY5WmlmZjV5NG1ZVjZpaTdNTnJOOHpES1pIZ0diUHdka0RqZ1FrT2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDQ3NzQ0CWZpbGU6SHViXzAuMjUuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNS4wCmxHUnZWUS8zQnRHK2Irc0s3bzY0U0NQWkg4UlhJRDFUNnZoTUV5ZkFCWGNBSTZkZjNMd3A1V2NzZDNGRUg3ZDdQbml6K2ExdGtZZE1FL1dwcHNLSkRRPT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.25.0_x64-setup.exe"
                                          }
                   }
 }
