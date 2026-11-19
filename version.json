@@ -1,5 +1,5 @@
 {
- "version": "0.26.0",
- "built": "2026-11-19T14:17:57.475Z",
- "notes": ""
+ "version": "0.26.1",
+ "built": "2026-11-19T14:29:09.800Z",
+ "notes": "Fixed: Posting to Instagram, YouTube and Facebook stopped with a click timed out error when a tip, question or cookie bar came up over the page (the same thing TikTok had). Their clicks now clear what covers the page and try again, and as a last resort press the button from inside the page. A failure now also says which page it was on. TikTok is exactly as it was."
 }
