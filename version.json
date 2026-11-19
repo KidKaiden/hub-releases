@@ -1,5 +1,5 @@
 {
- "version": "0.25.0",
- "built": "2026-11-19T00:22:25.504Z",
- "notes": "New: Blitz is now Sonic. As it fights it gathers blue electric energy and gets faster. When full it curls up and revs like a spin dash, then rolls as a ball that homes in on the enemy and bounces off it. Three bounces, then a fourth big one that hits hardest and throws both far apart. After that its speed dies and it has to build up again.; Super Blitz: after the fourth full roll, the big bounce turns Blitz golden for a while, stronger and faster, with flames standing off it.. Improved: New Blitz look: crackling arcs and Flash-style blue afterimages while it charges, a shaded spinning ball with a motion blur and trail, lightning on the big bounce, and a golden burst for Super. New sounds for the rev, launch, bounces, big bounce and Super."
+ "version": "0.25.1",
+ "built": "2026-11-19T00:56:13.079Z",
+ "notes": "Improved: Ronin moves like a swordsman: calm and deliberate, circling at a set distance and only stepping in or out when he has to, with no twitchy weaving.; Ronin's cuts are sharper and a bit dimmer: thin pointed lines with a neon edge. In Thousand Cuts he really cuts through the enemy on each pass and ends on the far side, and the cuts stay on the enemy and stream along behind it as it moves, with a hit spark on the enemy itself. The ultimate is much quieter.; 12 more abilities stronger: Lightning, Wind, Poison, Clone, Devil, Angel, Phoenix, Reaper, Titan, Nova, Drake and Instinct. The arrows were re-tuned."
 }
