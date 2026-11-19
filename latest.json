@@ -1,11 +1,11 @@
 {
-    "version":  "0.25.6",
-    "notes":  "Fixed: The buttons that choose where each group is uploaded went missing until a tournament had been built: Publish now rebuilds your saved tournament by itself.",
-    "pub_date":  "2026-11-19T12:16:12Z",
+    "version":  "0.25.7",
+    "notes":  "Improved: Vertical fight videos now fill the whole frame instead of leaving a dark empty strip: a series title and round tag across the top, and a live stats panel under the fight (damage, hits, biggest hit, ultimates). The matchup card shows both names and Who wins? from the very first frame. TikTok had marked one video as low quality and unoriginal; the look of the arena is unchanged.; Exported videos are sharper: a higher bitrate (about 20 Mbit/s at 1080p) so pixel art stays clean. Re-export your vertical videos to get the new look.. Fixed: Full screen on the Tournament page squashed the wide video on a 1080p screen. The picture now always keeps its exact shape.",
+    "pub_date":  "2026-11-19T12:34:04Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkRpZU9sYVVxYVUxOW5Ja3Qyc3YzUHNuV0M3dEd3VWVCQlpKNlFoU3BpOEE5T2lTRUhibGdPOXQ1bHNqVjBETTNHK25JNUllWEx3S1N3Z0o0TVNxblFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDkwNjg1CWZpbGU6SHViXzAuMjUuNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNS42ClBkR2RZU0h3dXZFM21CMDN2N1ZVZzFHTHo3TGY4M1NBdFl6SEtKdW5ldGlqN0lxNHVTdm5vb08yc2hET0pXTU5RNEo4dUxOemlZT0hTVWxWNG1CNUFnPT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.25.6_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4Wk1VZVBVSUcvbjdLR0orMXdTWnNRbGRyRm96RGJjaXFwUHZiVUhrZ1RVRHh4RUZkYUhNS0Q5MWlGNjR1Z2dyOXBscVNpMFpkSWVLMUpZK0MrK3B5NVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDkxNzU1CWZpbGU6SHViXzAuMjUuN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNS43Ckd3OVZjZG5qUmhmZUlram9qWUFlQmgyeW4xS0oyV0E1VVVLeGdTa2JqRDVhSTBhZjBtcXIrNmxjcG1xNHhiRHNHQm9oNUpnNVYrY3A0Z2hxZkpNc0JnPT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.25.7_x64-setup.exe"
                                          }
                   }
 }
