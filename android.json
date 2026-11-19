@@ -1,6 +1,6 @@
 {
-    "version":  "0.26.1",
-    "notes":  "Fixed: Posting to Instagram, YouTube and Facebook stopped with a click timed out error when a tip, question or cookie bar came up over the page (the same thing TikTok had). Their clicks now clear what covers the page and try again, and as a last resort press the button from inside the page. A failure now also says which page it was on. TikTok is exactly as it was.",
-    "pub_date":  "2026-11-19T14:27:17Z",
-    "url":  "files/Hub-0.26.1.apk"
+    "version":  "0.26.2",
+    "notes":  "Fixed: Drawing a long video: if the PC video chip fails part way through, the render is now done again by itself with the software encoder (slower, but it does not depend on the chip) instead of stopping. Tested by making the first encoder fail half way.",
+    "pub_date":  "2026-11-19T14:32:05Z",
+    "url":  "files/Hub-0.26.2.apk"
 }
