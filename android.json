@@ -1,6 +1,6 @@
 {
-    "version":  "0.25.5",
-    "notes":  "Fixed: Instagram sign-in keeps one stable browser profile after a single clean start (a new browser every time looks like a new device, which Instagram distrusts). The clean start applies to Instagram only: TikTok, Facebook and YouTube sign-in and posting are unchanged.",
-    "pub_date":  "2026-11-19T11:56:36Z",
-    "url":  "files/Hub-0.25.5.apk"
+    "version":  "0.25.6",
+    "notes":  "Fixed: The buttons that choose where each group is uploaded went missing until a tournament had been built: Publish now rebuilds your saved tournament by itself.",
+    "pub_date":  "2026-11-19T12:16:12Z",
+    "url":  "files/Hub-0.25.6.apk"
 }

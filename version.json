@@ -1,5 +1,5 @@
 {
- "version": "0.25.5",
- "built": "2026-11-19T11:58:25.076Z",
- "notes": "Fixed: Instagram sign-in keeps one stable browser profile after a single clean start (a new browser every time looks like a new device, which Instagram distrusts). The clean start applies to Instagram only: TikTok, Facebook and YouTube sign-in and posting are unchanged."
+ "version": "0.25.6",
+ "built": "2026-11-19T12:18:06.684Z",
+ "notes": "Fixed: The buttons that choose where each group is uploaded went missing until a tournament had been built: Publish now rebuilds your saved tournament by itself."
 }

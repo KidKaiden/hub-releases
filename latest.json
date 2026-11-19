@@ -1,11 +1,11 @@
 {
-    "version":  "0.25.5",
-    "notes":  "Fixed: Instagram sign-in keeps one stable browser profile after a single clean start (a new browser every time looks like a new device, which Instagram distrusts). The clean start applies to Instagram only: TikTok, Facebook and YouTube sign-in and posting are unchanged.",
-    "pub_date":  "2026-11-19T11:56:36Z",
+    "version":  "0.25.6",
+    "notes":  "Fixed: The buttons that choose where each group is uploaded went missing until a tournament had been built: Publish now rebuilds your saved tournament by itself.",
+    "pub_date":  "2026-11-19T12:16:12Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkYwaXZYeU4xTWVnL2FKSG15L0wwMWdFMW5vQ0tLNDRNU1BlN1RzOVFCb2xCSlM3MStPQU83aVVocFI4RDN2TW5ESElRbmRCZ1ZPQStiZVZwWkJaR3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDg5NTAzCWZpbGU6SHViXzAuMjUuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNS41CklMUEdYZGQ1b2lvQVQrRWRJamN4RW82RHJEMHl1d2d5OVNHYTczcERKeFkxZ3pMUzZkanNFN2h1Y0ZoUmRkcG4vWE13QThLUTVMOU9ncmF5czZBeEF3PT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.25.5_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkRpZU9sYVVxYVUxOW5Ja3Qyc3YzUHNuV0M3dEd3VWVCQlpKNlFoU3BpOEE5T2lTRUhibGdPOXQ1bHNqVjBETTNHK25JNUllWEx3S1N3Z0o0TVNxblFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDkwNjg1CWZpbGU6SHViXzAuMjUuNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNS42ClBkR2RZU0h3dXZFM21CMDN2N1ZVZzFHTHo3TGY4M1NBdFl6SEtKdW5ldGlqN0lxNHVTdm5vb08yc2hET0pXTU5RNEo4dUxOemlZT0hTVWxWNG1CNUFnPT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.25.6_x64-setup.exe"
                                          }
                   }
 }
