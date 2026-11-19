@@ -1,6 +1,6 @@
 {
-    "version":  "0.25.4",
-    "notes":  "Fixed: Sign-in windows (Instagram, TikTok, Facebook, YouTube) now start from a clean browser profile. Edge was signing each one in to your Microsoft account and syncing old saved passwords in, which could fill a wrong password into the form. Password and form filling and extensions are now off there.",
-    "pub_date":  "2026-11-19T11:33:22Z",
-    "url":  "files/Hub-0.25.4.apk"
+    "version":  "0.25.5",
+    "notes":  "Fixed: Instagram sign-in keeps one stable browser profile after a single clean start (a new browser every time looks like a new device, which Instagram distrusts). The clean start applies to Instagram only: TikTok, Facebook and YouTube sign-in and posting are unchanged.",
+    "pub_date":  "2026-11-19T11:56:36Z",
+    "url":  "files/Hub-0.25.5.apk"
 }

@@ -1,11 +1,11 @@
 {
-    "version":  "0.25.4",
-    "notes":  "Fixed: Sign-in windows (Instagram, TikTok, Facebook, YouTube) now start from a clean browser profile. Edge was signing each one in to your Microsoft account and syncing old saved passwords in, which could fill a wrong password into the form. Password and form filling and extensions are now off there.",
-    "pub_date":  "2026-11-19T11:33:22Z",
+    "version":  "0.25.5",
+    "notes":  "Fixed: Instagram sign-in keeps one stable browser profile after a single clean start (a new browser every time looks like a new device, which Instagram distrusts). The clean start applies to Instagram only: TikTok, Facebook and YouTube sign-in and posting are unchanged.",
+    "pub_date":  "2026-11-19T11:56:36Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4Wkphb2R3RE1ibWVrT043RVFGNithMGdBSEZvWU9wUklGMS9wc2lKcnR1S2d5eElpcTlzMi80Wk9GbFowbnI3MW8wRFVSUEZPT3EwZ21IbGVnUFluN3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDg4MTE0CWZpbGU6SHViXzAuMjUuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNS40CkZ6N3MvRHExb2VxZHdlcDR3R1ZFdnIybzBYbjQrV1YrUXhzNGdVRGZqaldHVnIxS0pTY2x0S052Y0ZGUWcwTzMzcG1YVWIrdnVCUklIcnppYXU1akNBPT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.25.4_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkYwaXZYeU4xTWVnL2FKSG15L0wwMWdFMW5vQ0tLNDRNU1BlN1RzOVFCb2xCSlM3MStPQU83aVVocFI4RDN2TW5ESElRbmRCZ1ZPQStiZVZwWkJaR3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDg5NTAzCWZpbGU6SHViXzAuMjUuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNS41CklMUEdYZGQ1b2lvQVQrRWRJamN4RW82RHJEMHl1d2d5OVNHYTczcERKeFkxZ3pMUzZkanNFN2h1Y0ZoUmRkcG4vWE13QThLUTVMOU9ncmF5czZBeEF3PT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.25.5_x64-setup.exe"
                                          }
                   }
 }
