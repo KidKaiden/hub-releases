@@ -1,11 +1,11 @@
 {
-    "version":  "0.26.2",
-    "notes":  "Fixed: Drawing a long video: if the PC video chip fails part way through, the render is now done again by itself with the software encoder (slower, but it does not depend on the chip) instead of stopping. Tested by making the first encoder fail half way.",
-    "pub_date":  "2026-11-19T14:32:05Z",
+    "version":  "0.26.3",
+    "notes":  "Phone: each video saves on its own and has a Share button for Instagram, TikTok or YouTube. Phone Publish says plainly the PC does the queued posting. Player: from the start, parts, back and forward 5 seconds, all in full screen. Remix Back brings back the exact match. Linking people by email works again.",
+    "pub_date":  "2026-11-20T14:15:49Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkZUQkcwN0dEZms4eHlCb3c0NXZVcUg2ZGNVSU95RkcxUnIwdHhrWHBuU3hKdTZ5OUtsTDdtMWROczMzdlFiTDFUSHYvbWVINHcraXFGcUZGSnplWmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDk4ODM2CWZpbGU6SHViXzAuMjYuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNi4yCkpBbzVwYWpZOHBPa0ZUTlpPR3ZudGNTSGRZWmtRUHFNcFkxc3pKbkNyVEsxVG01ZU1JQkxycjRVNS9CcmtvOTdBZlBzZFhPQVEzaTRVVklTL3c0L0JRPT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.26.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkMvTlM0V28rL1JGOFlvVGNKcEpqT3UvNEluTjFZSzE0YkFLN2daeDNFMUJabERxWDBUSUt2dzgzTjBoVXlJdlQ5czVsemxxblFad3pPNW1GOHJxWnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTg0MjcyCWZpbGU6SHViXzAuMjYuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNi4zCmVsczljSGNsOG1wOG5iWVYxc1I5dk03S1BUSHZ5eEtsYXFBR1B1Rm9kRk52Q1lkZnd1R0xzK2t6dmFXMnZVTDFiZ1NxRlRRa0lTRGlwTFU2Vm01RURRPT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.26.3_x64-setup.exe"
                                          }
                   }
 }
