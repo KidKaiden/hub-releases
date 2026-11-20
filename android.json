@@ -1,6 +1,6 @@
 {
-    "version":  "0.26.4",
-    "notes":  "Blitz turns Super after three spin dashes and stays Super for the whole match, with gold impact frames. Publish: the queue shows only what is still to post; posted videos are in a folded Posted list with the date, where they went, the seed, and Revive to make that tournament again.",
-    "pub_date":  "2026-11-20T15:08:25Z",
-    "url":  "files/Hub-0.26.4.apk"
+    "version":  "0.26.5",
+    "notes":  "New arrow: the Avatar. It bends wind, fire, water and earth after a pierce, after every 3 hits and from far away; every 4 hits empower a move, and 3 empowered moves bring the Avatar State for the rest of the match. Blitz now turns Super around mid-fight.",
+    "pub_date":  "2026-11-20T15:58:57Z",
+    "url":  "files/Hub-0.26.5.apk"
 }

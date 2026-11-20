@@ -1,11 +1,11 @@
 {
-    "version":  "0.26.4",
-    "notes":  "Blitz turns Super after three spin dashes and stays Super for the whole match, with gold impact frames. Publish: the queue shows only what is still to post; posted videos are in a folded Posted list with the date, where they went, the seed, and Revive to make that tournament again.",
-    "pub_date":  "2026-11-20T15:08:25Z",
+    "version":  "0.26.5",
+    "notes":  "New arrow: the Avatar. It bends wind, fire, water and earth after a pierce, after every 3 hits and from far away; every 4 hits empower a move, and 3 empowered moves bring the Avatar State for the rest of the match. Blitz now turns Super around mid-fight.",
+    "pub_date":  "2026-11-20T15:58:57Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4Wk4ybWZNb3FxWXRnV2orTVU2cm92VmNaVzBlZDdUcU0xQ3dCdlp2ZWQxQ0NycXlwcGpGM3lFTURkQTlwYndyK01ZZ1pIUTFkUjN3aEdLaUI5SXV2aVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTg3NDI3CWZpbGU6SHViXzAuMjYuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNi40CnRsT3QyekVNNUs3d2E5WDN2Z3pBZ1ZjV3JvbTNDMDlISng0NFlBNXVkOXE5d2xMb0YxeGFJY3JWVlkvOXZjNkhKOVVpZFZWMEVCK05RTnI0ekJNbEN3PT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.26.4_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkxGb1ZiaitZQWVnOStTSURXcWtTUk5uVzF0UFpsWTZLb0ZjdFR0bXRybWJta0hxSUUrOFhSWHJ1U3g2emZhVmxyMHRjbE9LckRaanB5UkxhcUtIeWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTkwNDM5CWZpbGU6SHViXzAuMjYuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNi41CkNUR0NVRUhTT2RaOHVjTlBHVnh0OXhOek1ybDF0eGMvdVVGMXZWbnRmRWlYenp5Q1FnZnZheEQ4QkVNcmpqQy9UeEpScnlxelozN1VPWHJXQ2NSckFnPT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.26.5_x64-setup.exe"
                                          }
                   }
 }
