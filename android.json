@@ -1,6 +1,6 @@
 {
-    "version":  "0.26.3",
-    "notes":  "Phone: each video saves on its own and has a Share button for Instagram, TikTok or YouTube. Phone Publish says plainly the PC does the queued posting. Player: from the start, parts, back and forward 5 seconds, all in full screen. Remix Back brings back the exact match. Linking people by email works again.",
-    "pub_date":  "2026-11-20T14:15:49Z",
-    "url":  "files/Hub-0.26.3.apk"
+    "version":  "0.26.4",
+    "notes":  "Blitz turns Super after three spin dashes and stays Super for the whole match, with gold impact frames. Publish: the queue shows only what is still to post; posted videos are in a folded Posted list with the date, where they went, the seed, and Revive to make that tournament again.",
+    "pub_date":  "2026-11-20T15:08:25Z",
+    "url":  "files/Hub-0.26.4.apk"
 }

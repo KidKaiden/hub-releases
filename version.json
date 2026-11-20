@@ -1,5 +1,5 @@
 {
- "version": "0.26.3",
- "built": "2026-11-20T14:17:53.437Z",
- "notes": "Phone: each video saves on its own and has a Share button for Instagram, TikTok or YouTube. Phone Publish says plainly the PC does the queued posting. Player: from the start, parts, back and forward 5 seconds, all in full screen. Remix Back brings back the exact match. Linking people by email works again."
+ "version": "0.26.4",
+ "built": "2026-11-20T15:10:29.413Z",
+ "notes": "Blitz turns Super after three spin dashes and stays Super for the whole match, with gold impact frames. Publish: the queue shows only what is still to post; posted videos are in a folded Posted list with the date, where they went, the seed, and Revive to make that tournament again."
 }
