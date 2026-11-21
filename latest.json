@@ -1,11 +1,11 @@
 {
-    "version":  "0.26.6",
-    "notes":  "Ten new arrows: Mimic, Warden, Ranger, Outlaw, Lich, Shark, Engineer, Weaver, Kitsune and Slime. The Avatar is less bright. Every arrow rebalanced.",
-    "pub_date":  "2026-11-20T21:24:56Z",
+    "version":  "0.27.0",
+    "notes":  "Each social has its own titles, descriptions, hashtags and comment prompts, a generator to copy posts, and a redesigned text step in Publish.",
+    "pub_date":  "2026-11-21T06:40:06Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkE1dS9iajB0ZThxODdqbStNTlNPK2U2WUhkRmVOTGdpTE0wUE5nVmo1Vk95eXBpb000NEt2YWFtR0NEVTA3MDg0NUd3Y25oL1dWRndLWGV2K3JMTXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjEwMDM4CWZpbGU6SHViXzAuMjYuNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNi42CkNDdm85aXAvczNyQWZZVWliU3BsU3M0ZG92Yzh5TjNIcFJKbnp4Mzk0QktGWkFXanVVZjNCVVplNnBnRFVqeUFWclZKdjNUSTBDUFpUYlljNG5RdURnPT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.26.6_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkVnVm5TYjNERWhKNGlxYlZmNmwvaVRXZzFtSU5WTXFISVZiMUtNbk5UWWdpRnlDdDJwNlJBL0w4a1VnaUZCbVFPRXJWTVVqWFZobXUxME12and5NHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjQzMzM1CWZpbGU6SHViXzAuMjcuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yNy4wClFDOVJhK1Foa1lCRFBXMGF4VTl5WTdkK2lxaWhmWFRLc1lWWGl3T01KaVJJT1RSWXprTHdTSVRpVExWQlBjelZjVTErMGlXeFJzSDMwc3BiOWVrcEN3PT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.27.0_x64-setup.exe"
                                          }
                   }
 }

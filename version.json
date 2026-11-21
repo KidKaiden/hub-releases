@@ -1,5 +1,5 @@
 {
- "version": "0.26.6",
- "built": "2026-11-20T21:27:20.274Z",
- "notes": "Ten new arrows: Mimic, Warden, Ranger, Outlaw, Lich, Shark, Engineer, Weaver, Kitsune and Slime. The Avatar is less bright. Every arrow rebalanced."
+ "version": "0.27.0",
+ "built": "2026-11-21T06:42:16.756Z",
+ "notes": "Each social has its own titles, descriptions, hashtags and comment prompts, a generator to copy posts, and a redesigned text step in Publish."
 }
