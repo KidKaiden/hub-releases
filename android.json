@@ -1,6 +1,6 @@
 {
-    "version":  "0.27.0",
-    "notes":  "Each social has its own titles, descriptions, hashtags and comment prompts, a generator to copy posts, and a redesigned text step in Publish.",
-    "pub_date":  "2026-11-21T06:40:06Z",
-    "url":  "files/Hub-0.27.0.apk"
+    "version":  "0.28.0",
+    "notes":  "JARVIS home page (Settings \u003e Look), Trading Lab Phase 1 and the prediction council, clearer Trading screens, phone More tab, bug fixes and a clean-up across the Hub",
+    "pub_date":  "2026-11-22T05:16:07Z",
+    "url":  "files/Hub-0.28.0.apk"
 }

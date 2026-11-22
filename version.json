@@ -1,5 +1,5 @@
 {
- "version": "0.27.0",
- "built": "2026-11-21T06:42:16.756Z",
- "notes": "Each social has its own titles, descriptions, hashtags and comment prompts, a generator to copy posts, and a redesigned text step in Publish."
+ "version": "0.28.0",
+ "built": "2026-11-22T05:18:23.709Z",
+ "notes": "JARVIS home page (Settings > Look), Trading Lab Phase 1 and the prediction council, clearer Trading screens, phone More tab, bug fixes and a clean-up across the Hub"
 }
