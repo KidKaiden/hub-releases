@@ -1,11 +1,11 @@
 {
-    "version":  "0.28.2",
-    "notes":  "The Classic home page uses the whole width of a wide PC screen",
-    "pub_date":  "2026-11-22T11:37:32Z",
+    "version":  "0.28.3",
+    "notes":  "Coliseum battles open with their own stand-off: arrows spike in with their trails and colour their side of the screen, WHO SURVIVES?, the clash, then a preview of how it ends. The ending preview shows the whole stadium. Publish uses the whole width of a wide screen.",
+    "pub_date":  "2026-11-22T18:39:21Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4Wkh4emhvZ0h3QTIwcUExaXlCUUJTZXNWREVWVXBseFhReXROWExTNVp3V1RYQWRDbTVVRVBVRlc3NG5paHBmSEg0eFozaVFtTnJUQ1Y5TjJvQjF3VHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzQ3NTU1CWZpbGU6SHViXzAuMjguMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yOC4yCnVyZVJ5NW9LMThaTWZXNzY3a0FjVGtvMDEzdWo1MnNScFFVNEw0SFFkSGxYRXBod1JrT05pTmNTSzNWYnE5M2hQRTVKQVFzL05BUnd6Nm44T1FidEJBPT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.28.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkRTU2hHOENTMGV3WjhscWtkcUVXdm4wM0FCZFRoaEI0U1N3UXN1VUlQTEluS3dJYm90U1JIeG9wWWJhODVkNHA3YlpuWC9FZ2JaVVhUMTBPUDAyOXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzcyODk3CWZpbGU6SHViXzAuMjguM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yOC4zCm41bEk3M3lSZkx0UVYwa2RKVWtDMStnMmpKT2paamdZcjdIYnF2TktSMU5Sb3hpeG5DTEpuMUZZRVhEVFhINFFGZ0dwR0haOEtSZWpzWndWZVBsSUN3PT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.28.3_x64-setup.exe"
                                          }
                   }
 }
