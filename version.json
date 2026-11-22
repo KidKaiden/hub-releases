@@ -1,5 +1,5 @@
 {
- "version": "0.28.0",
- "built": "2026-11-22T05:18:23.709Z",
- "notes": "JARVIS home page (Settings > Look), Trading Lab Phase 1 and the prediction council, clearer Trading screens, phone More tab, bug fixes and a clean-up across the Hub"
+ "version": "0.28.1",
+ "built": "2026-11-22T11:26:28.495Z",
+ "notes": "JARVIS fills your whole PC screen and fits on one page, the fight player has controls (back, play, next, new seed) with what's up next, and This week is a day-by-day agenda"
 }

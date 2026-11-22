@@ -1,11 +1,11 @@
 {
-    "version":  "0.28.0",
-    "notes":  "JARVIS home page (Settings \u003e Look), Trading Lab Phase 1 and the prediction council, clearer Trading screens, phone More tab, bug fixes and a clean-up across the Hub",
-    "pub_date":  "2026-11-22T05:16:07Z",
+    "version":  "0.28.1",
+    "notes":  "JARVIS fills your whole PC screen and fits on one page, the fight player has controls (back, play, next, new seed) with what\u0027s up next, and This week is a day-by-day agenda",
+    "pub_date":  "2026-11-22T11:24:11Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4Wk9jMXpZM3Z6ZStVQ2FVQnB1TUVqc1gxQVd3bDZFTm5taW9iQ0RZTHhTUnRjSUh4MWs2bUxBTi9qQThWL3ByYVN5Z1FBTFBkdzlTc1I4ZlAyUlR2MGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzI0NzAyCWZpbGU6SHViXzAuMjguMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yOC4wCmY0OE1qNDg0cTBKSUlYUldkQ2pKcUpLUkpCaUd0NkFvVHoybGlpK3lLUGhsUnJud3pLdlAyZzJVMEpLNlNrczFGZDI4U3FrVmtuU0lPQ0h6akVrZUJnPT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.28.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WktUbnpVeERVSnZWbVNqY3M0LzdsTjhVdEphYTBZNUs2MFNFL2dsSk1mZTAySGI3Z2ROVm9EWjVwZkhGc2h6bEV3MHJzZFZxa1B3aFdsa0RvV1c2RndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzQ2Nzg2CWZpbGU6SHViXzAuMjguMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yOC4xCnMrdDFlM2hCNk5XbGNiOG9RVkpzRkREcjl2L1djdmdGTncrWndHYnk5MDJ0eTU4QU9uTFRPZ1lGVWQ5M0pwb3JKdmhBeVcxZ0o1QWUzSXFNVkJhM0FRPT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.28.1_x64-setup.exe"
                                          }
                   }
 }
