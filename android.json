@@ -1,6 +1,6 @@
 {
-    "version":  "0.28.3",
-    "notes":  "Coliseum battles open with their own stand-off: arrows spike in with their trails and colour their side of the screen, WHO SURVIVES?, the clash, then a preview of how it ends. The ending preview shows the whole stadium. Publish uses the whole width of a wide screen.",
-    "pub_date":  "2026-11-22T18:39:21Z",
-    "url":  "files/Hub-0.28.3.apk"
+    "version":  "0.29.0",
+    "notes":  "Clipper: stranger test with a rating tool, dead air cut out with Undo (sources kept 4 days), most replayed, hook/flow/value grades, paid campaigns with the ad label, one account per streamer, your own videos. Fixes: face signal, music flag, error texts.",
+    "pub_date":  "2026-11-23T19:16:37Z",
+    "url":  "files/Hub-0.29.0.apk"
 }

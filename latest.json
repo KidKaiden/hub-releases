@@ -1,11 +1,11 @@
 {
-    "version":  "0.28.3",
-    "notes":  "Coliseum battles open with their own stand-off: arrows spike in with their trails and colour their side of the screen, WHO SURVIVES?, the clash, then a preview of how it ends. The ending preview shows the whole stadium. Publish uses the whole width of a wide screen.",
-    "pub_date":  "2026-11-22T18:39:21Z",
+    "version":  "0.29.0",
+    "notes":  "Clipper: stranger test with a rating tool, dead air cut out with Undo (sources kept 4 days), most replayed, hook/flow/value grades, paid campaigns with the ad label, one account per streamer, your own videos. Fixes: face signal, music flag, error texts.",
+    "pub_date":  "2026-11-23T19:16:37Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkRTU2hHOENTMGV3WjhscWtkcUVXdm4wM0FCZFRoaEI0U1N3UXN1VUlQTEluS3dJYm90U1JIeG9wWWJhODVkNHA3YlpuWC9FZ2JaVVhUMTBPUDAyOXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzcyODk3CWZpbGU6SHViXzAuMjguM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yOC4zCm41bEk3M3lSZkx0UVYwa2RKVWtDMStnMmpKT2paamdZcjdIYnF2TktSMU5Sb3hpeG5DTEpuMUZZRVhEVFhINFFGZ0dwR0haOEtSZWpzWndWZVBsSUN3PT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.28.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkptS0gxL2E1dGlBRUI1dkErdTk3MUlyVy9LRG9LSWhFUEZiSEY3NnRlRllpTURod2VzMUtJUEhGNW0rQ2NxMmMzY0FmZ3BuSHJUUk5EQ0tZT3VZZEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDYxNTUyCWZpbGU6SHViXzAuMjkuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yOS4wCmFtTmNrNzZYM2JtNFVnOFFFc3N3MWhFK3FhODV1eldtYzEvSzBmcGZHamY0SWNaSWRoUmFJZWpRVFVKSXBjNkRmTTRFYVVvMmdoYzV6YzVHT3pUbUJRPT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.29.0_x64-setup.exe"
                                          }
                   }
 }
