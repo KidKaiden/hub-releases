@@ -1,11 +1,11 @@
 {
-    "version":  "0.29.0",
-    "notes":  "Clipper: stranger test with a rating tool, dead air cut out with Undo (sources kept 4 days), most replayed, hook/flow/value grades, paid campaigns with the ad label, one account per streamer, your own videos. Fixes: face signal, music flag, error texts.",
-    "pub_date":  "2026-11-23T19:16:37Z",
+    "version":  "0.29.1",
+    "notes":  "JARVIS: the PC globe turns by itself again (follows the Hub\u0027s Motion setting, holds still only while you point at an app); no sideways scroll on phones.",
+    "pub_date":  "2026-11-23T20:15:40Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkptS0gxL2E1dGlBRUI1dkErdTk3MUlyVy9LRG9LSWhFUEZiSEY3NnRlRllpTURod2VzMUtJUEhGNW0rQ2NxMmMzY0FmZ3BuSHJUUk5EQ0tZT3VZZEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDYxNTUyCWZpbGU6SHViXzAuMjkuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yOS4wCmFtTmNrNzZYM2JtNFVnOFFFc3N3MWhFK3FhODV1eldtYzEvSzBmcGZHamY0SWNaSWRoUmFJZWpRVFVKSXBjNkRmTTRFYVVvMmdoYzV6YzVHT3pUbUJRPT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.29.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkYraWtNNCtsSGtyOEl4UFYzY2xBTHErVnFha2RvMUxKejJXMGZNOWs5bGJOWnJJblZVRmhvNFlWa0l0SC93aDFBNWV0WnQyRUZia2NKc2pVY0FEendRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDY1MDk4CWZpbGU6SHViXzAuMjkuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yOS4xCnRoODFmUytEMytPRTkrd1hFL25GWTNJY0dvYlJWN2R3eDVxTVVHV3YzZDRDYVJiSW5OeElTWHQxclUzbHFNZ2wwTDNyaytZai8ySFlJZng0NTRndUJ3PT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.29.1_x64-setup.exe"
                                          }
                   }
 }
