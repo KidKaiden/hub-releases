@@ -1,6 +1,6 @@
 {
-    "version":  "0.30.1",
-    "notes":  "Less empty space on wide screens, phone fixes, shorter explanations.",
-    "pub_date":  "2026-11-27T12:27:17Z",
-    "url":  "files/Hub-0.30.1.apk"
+    "version":  "0.31.0",
+    "notes":  "Full-screen trading screen behind the arrow on the home page: Overview, Agent lab and Quant, with a Demo switch.",
+    "pub_date":  "2026-11-27T16:45:46Z",
+    "url":  "files/Hub-0.31.0.apk"
 }
