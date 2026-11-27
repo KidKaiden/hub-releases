@@ -1,6 +1,6 @@
 {
-    "version":  "0.30.0",
-    "notes":  "New: Trading: a Demo switch in the corner shows the whole app working on a made-up $1,000 account (trades arrive, Approve and the kill switch work, a pretend Lab run). It only appears when nothing is connected, says it is made up, and never touches your broker, keys or the Hub home page.; Trading: Markets. A screener, the US economy (needs your free FRED key in Setup), world growth and inflation, the release calendar, news, prediction-market odds (look only) and a day-by-day replay that uses the same signal and risk check as the paper bot.. Improved: Every Trading page now fills the screen: wide windows get columns, empty pages show what will appear, and nothing clips while you resize. Buttons and switches are 40 px high on touch screens.. Fixed: Trading: the Lab report window\u0027s Close button was covered on a PC and the phone\u0027s Back button left the page; the Journal could show one day twice after midnight UTC; the phone\u0027s More page now opens Bots on a wide window.",
-    "pub_date":  "2026-11-27T04:20:37Z",
-    "url":  "files/Hub-0.30.0.apk"
+    "version":  "0.30.1",
+    "notes":  "Less empty space on wide screens, phone fixes, shorter explanations.",
+    "pub_date":  "2026-11-27T12:27:17Z",
+    "url":  "files/Hub-0.30.1.apk"
 }

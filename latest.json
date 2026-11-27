@@ -1,11 +1,11 @@
 {
-    "version":  "0.30.0",
-    "notes":  "New: Trading: a Demo switch in the corner shows the whole app working on a made-up $1,000 account (trades arrive, Approve and the kill switch work, a pretend Lab run). It only appears when nothing is connected, says it is made up, and never touches your broker, keys or the Hub home page.; Trading: Markets. A screener, the US economy (needs your free FRED key in Setup), world growth and inflation, the release calendar, news, prediction-market odds (look only) and a day-by-day replay that uses the same signal and risk check as the paper bot.. Improved: Every Trading page now fills the screen: wide windows get columns, empty pages show what will appear, and nothing clips while you resize. Buttons and switches are 40 px high on touch screens.. Fixed: Trading: the Lab report window\u0027s Close button was covered on a PC and the phone\u0027s Back button left the page; the Journal could show one day twice after midnight UTC; the phone\u0027s More page now opens Bots on a wide window.",
-    "pub_date":  "2026-11-27T04:20:37Z",
+    "version":  "0.30.1",
+    "notes":  "Less empty space on wide screens, phone fixes, shorter explanations.",
+    "pub_date":  "2026-11-27T12:27:17Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkVzUEpOVnFpYVlaTy9SOTY2Mm9ScnFHUTFkSHN4UkUvRWJ3VUVSV1drbjFEQWdqdDhzRFVPL3c3bkZaakhDNzJHeVV2TUx1YWpzV2xPaVl2RUZ5OGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzUzNDA0CWZpbGU6SHViXzAuMzAuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zMC4wCnpFVnVJTmVCbThiR1FTY1VpMkd5S1oxZWxWZ3d4a3h3eVZYK3Y3emhOdGZvS0lCaCtabmg1bnpsRU5Rdk1jbGpwY01XWU84WHdVZnQ3V2l3OWZhMkJBPT0K",
-                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.30.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVktPRXdNVnd4WkpMK0JROTRZanR6bUFBMzcyYVZyWWJ0b2laSWxPeXRNNU9EakpCdjdTT0xjNG1BL0FGVnZyQldSWXpZcFZWRWFiYmYrRFpwSVI1TFpTMGdJbHZOOXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzgyNTczCWZpbGU6SHViXzAuMzAuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zMC4xCmhBZ0oyMFJqRXVwZnhLYlpRaytiVXNOMk41M2VxeGlwbTZHckJINzQ2c1kyZ0tpNmRiajBja2o2VXR4RGc5SW5EVDNMNURZMjVZM0VCOHhYOTEzR0RnPT0K",
+                                             "url":  "https://kidkaiden.github.io/hub-releases/files/Hub_0.30.1_x64-setup.exe"
                                          }
                   }
 }
